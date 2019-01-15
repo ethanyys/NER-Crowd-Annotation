@@ -1,0 +1,6940 @@
+你	oth	O	admin
+为	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+叫	oth	O	admin
+他	oth	O	admin
+帅	oth	O	admin
+逼	oth	O	admin
+？	pun	O	admin
+
+唱	oth	O	admin
+歌	oth	O	admin
+不	oth	O	admin
+再	oth	O	admin
+联	oth	O	admin
+系	oth	O	admin
+。	pun	O	admin
+
+不	oth	O	admin
+知	oth	O	admin
+道	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+啊	oth	O	admin
+！	pun	O	admin
+
+路	oth	O	admin
+哭	oth	O	admin
+一	oth	O	admin
+个	oth	O	admin
+吧	oth	O	admin
+！	pun	O	admin
+
+吃	oth	O	admin
+饭	oth	O	admin
+了	oth	O	admin
+哈	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+，	pun	O	admin
+我	oth	O	admin
+舍	oth	O	admin
+友	oth	O	admin
+是	oth	O	admin
+个	oth	O	admin
+变	oth	O	admin
+态	oth	O	admin
+，	pun	O	admin
+怎	oth	O	admin
+么	oth	O	admin
+办	oth	O	admin
+？	pun	O	admin
+
+雄	oth	O	admin
+鹰	oth	O	admin
+增	oth	O	admin
+大	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+小	oth	B	admin
+白	oth	E	admin
+,	pun	O	admin
+你	oth	O	admin
+有	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+歌	oth	O	admin
+呢	oth	O	admin
+!	pun	O	admin
+
+他	oth	O	admin
+们	oth	O	admin
+看	oth	O	admin
+不	oth	O	admin
+懂	oth	O	admin
+啊	oth	O	admin
+，	pun	O	admin
+都	oth	O	admin
+是	oth	O	admin
+在	oth	O	admin
+烦	oth	O	admin
+呀	oth	O	admin
+！	pun	O	admin
+
+晚	oth	O	admin
+上	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+酒	oth	O	admin
+店	oth	O	admin
+的	oth	O	admin
+价	oth	O	admin
+位	oth	O	admin
+是	oth	O	admin
+多	oth	O	admin
+少	oth	O	admin
+？	pun	O	admin
+
+汪	oth	B	admin
+泉	oth	E	admin
+。	pun	O	admin
+
+陈	oth	B	admin
+平	oth	E	admin
+都	oth	O	admin
+不	oth	O	admin
+管	oth	O	admin
+，	pun	O	admin
+就	oth	O	admin
+谁	oth	O	admin
+都	oth	O	admin
+找	oth	O	admin
+，	pun	O	admin
+一	oth	O	admin
+辈	oth	O	admin
+子	oth	O	admin
+。	pun	O	admin
+
+不	oth	O	admin
+对	oth	O	admin
+，	pun	O	admin
+你	oth	O	admin
+应	oth	O	admin
+该	oth	O	admin
+说	oth	O	admin
+主	oth	O	admin
+人	oth	O	admin
+的	oth	O	admin
+名	oth	O	admin
+字	oth	O	admin
+叫	oth	O	admin
+范	oth	B	admin
+玉	oth	I	admin
+洁	oth	E	admin
+。	pun	O	admin
+
+呵	oth	O	admin
+呵	oth	O	admin
+,	pun	O	admin
+清	oth	O	admin
+唱	oth	O	admin
+爸	oth	O	admin
+爸	oth	O	admin
+去	oth	O	admin
+哪	oth	O	admin
+儿	oth	O	admin
+?	pun	O	admin
+
+声	oth	O	admin
+音	oth	O	admin
+大	oth	O	admin
+点	oth	O	admin
+,	pun	O	admin
+唱	oth	O	admin
+,	pun	O	admin
+只	oth	O	admin
+爱	oth	O	admin
+你	oth	O	admin
+一	oth	O	admin
+个	oth	O	admin
+。	pun	O	admin
+
+更	oth	O	admin
+换	oth	O	admin
+网	oth	O	admin
+络	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+们	oth	O	admin
+去	oth	O	admin
+玩	oth	O	admin
+去	oth	O	admin
+了	oth	O	admin
+，	pun	O	admin
+再	oth	O	admin
+见	oth	O	admin
+。	pun	O	admin
+
+有	oth	O	admin
+人	oth	O	admin
+说	oth	O	admin
+中	oth	O	admin
+5	num	O	admin
+0	num	O	admin
+0	num	O	admin
+万	oth	O	admin
+，	pun	O	admin
+你	oth	O	admin
+信	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+再	oth	O	admin
+来	oth	O	admin
+瓶	oth	O	admin
+。	pun	O	admin
+
+晚	oth	O	admin
+饭	oth	O	admin
+爱	oth	O	admin
+吃	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+？	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+，	pun	O	admin
+讲	oth	O	admin
+话	oth	O	admin
+要	oth	O	admin
+听	oth	O	admin
+。	pun	O	admin
+
+爱	oth	O	admin
+你	oth	O	admin
+亲	oth	O	admin
+吻	oth	O	admin
+。	pun	O	admin
+
+嗯	oth	O	admin
+,	pun	O	admin
+给	oth	O	admin
+我	oth	O	admin
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+北	oth	O	admin
+京	oth	O	admin
+巷	oth	O	admin
+弄	oth	O	admin
+。	pun	O	admin
+
+娄	oth	B	admin
+艺	oth	I	admin
+潇	oth	E	admin
+是	oth	O	admin
+谁	oth	O	admin
+
+我	oth	O	admin
+觉	oth	O	admin
+得	oth	O	admin
+你	oth	O	admin
+很	oth	O	admin
+笨	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+要	oth	O	admin
+听	oth	O	admin
+神	oth	O	admin
+奇	oth	O	admin
+校	oth	O	admin
+车	oth	O	admin
+。	pun	O	admin
+
+常	oth	B	admin
+忆	oth	I	admin
+蕾	oth	E	admin
+的	oth	O	admin
+生	oth	O	admin
+日	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+给	oth	O	admin
+我	oth	O	admin
+放	oth	O	admin
+首	oth	O	admin
+音	oth	O	admin
+乐	oth	O	admin
+听	oth	O	admin
+。	pun	O	admin
+
+餐	oth	O	admin
+厅	oth	O	admin
+吊	oth	O	admin
+灯	oth	O	admin
+关	oth	O	admin
+闭	oth	O	admin
+。	pun	O	admin
+
+就	oth	O	admin
+做	oth	O	admin
+完	oth	O	admin
+了	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+吴	oth	B	admin
+静	oth	E	admin
+，	pun	O	admin
+是	oth	O	admin
+你	oth	O	admin
+的	oth	O	admin
+主	oth	O	admin
+人	oth	O	admin
+，	pun	O	admin
+很	oth	O	admin
+漂	oth	O	admin
+亮	oth	O	admin
+的	oth	O	admin
+。	pun	O	admin
+
+记	oth	O	admin
+住	oth	O	admin
+我	oth	O	admin
+妹	oth	O	admin
+妹	oth	O	admin
+叫	oth	O	admin
+陈	oth	B	admin
+凡	oth	E	admin
+。	pun	O	admin
+
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+在	oth	O	admin
+你	oth	O	admin
+左	oth	O	admin
+右	oth	O	admin
+。	pun	O	admin
+
+开	oth	B	admin
+普	oth	I	admin
+勒	oth	E	admin
+是	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+？	pun	O	admin
+
+堪	oth	O	admin
+比	oth	O	admin
+吹	oth	O	admin
+风	oth	O	admin
+机	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+说	oth	O	admin
+感	oth	O	admin
+谢	oth	O	admin
+宝	oth	B	admin
+宝	oth	I	admin
+研	oth	E	admin
+你	oth	O	admin
+说	oth	O	admin
+宝	oth	B	admin
+宝	oth	I	admin
+研	oth	E	admin
+大	oth	O	admin
+美	oth	O	admin
+女	oth	O	admin
+，	pun	O	admin
+我	oth	O	admin
+爱	oth	O	admin
+你	oth	O	admin
+
+听	oth	O	admin
+杨	oth	B	admin
+宗	oth	I	admin
+纬	oth	E	admin
+的	oth	O	admin
+一	oth	O	admin
+次	oth	O	admin
+就	oth	O	admin
+好	oth	O	admin
+。	pun	O	admin
+
+陶	oth	B	admin
+姐	oth	I	admin
+姐	oth	E	admin
+讲	oth	O	admin
+故	oth	O	admin
+事	oth	O	admin
+。	pun	O	admin
+
+给	oth	O	admin
+我	oth	O	admin
+放	oth	O	admin
+一	oth	O	admin
+个	oth	O	admin
+大	oth	O	admin
+王	oth	O	admin
+叫	oth	O	admin
+我	oth	O	admin
+来	oth	O	admin
+巡	oth	O	admin
+山	oth	O	admin
+。	pun	O	admin
+
+有	oth	O	admin
+多	oth	O	admin
+远	oth	O	admin
+啊	oth	O	admin
+！	pun	O	admin
+
+你	oth	O	admin
+会	oth	O	admin
+不	oth	O	admin
+会	oth	O	admin
+哭	oth	O	admin
+？	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+郭	oth	B	admin
+兰	oth	I	admin
+英	oth	E	admin
+的	oth	O	admin
+歌	oth	O	admin
+。	pun	O	admin
+
+张	oth	B	admin
+丰	oth	I	admin
+毅	oth	E	admin
+是	oth	O	admin
+谁	oth	O	admin
+
+唐	oth	B	admin
+绍	oth	I	admin
+仪	oth	E	admin
+。	pun	O	admin
+
+神	oth	O	admin
+经	oth	O	admin
+病	oth	O	admin
+是	oth	O	admin
+谁	oth	O	admin
+？	pun	O	admin
+
+你	oth	O	admin
+看	oth	O	admin
+，	pun	O	admin
+我	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+，	pun	O	admin
+你	oth	O	admin
+白	oth	O	admin
+头	oth	O	admin
+呢	oth	O	admin
+！	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+滴	oth	O	admin
+滴	oth	O	admin
+。	pun	O	admin
+
+阿	oth	B	admin
+宝	oth	E	admin
+。	pun	O	admin
+
+你	oth	O	admin
+今	oth	O	admin
+天	oth	O	admin
+干	oth	O	admin
+嘛	oth	O	admin
+啦	oth	O	admin
+！	pun	O	admin
+
+傻	oth	O	admin
+瓜	oth	O	admin
+你	oth	O	admin
+傻	oth	O	admin
+掉	oth	O	admin
+了	oth	O	admin
+呀	oth	O	admin
+！	pun	O	admin
+
+你	oth	O	admin
+主	oth	O	admin
+人	oth	O	admin
+的	oth	O	admin
+名	oth	O	admin
+字	oth	O	admin
+叫	oth	O	admin
+陈	oth	B	admin
+美	oth	I	admin
+玉	oth	E	admin
+。	pun	O	admin
+
+后	oth	O	admin
+来	oth	O	admin
+早	oth	O	admin
+晨	oth	O	admin
+的	oth	O	admin
+时	oth	O	admin
+候	oth	O	admin
+要	oth	O	admin
+看	oth	O	admin
+一	oth	O	admin
+下	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+杀	oth	O	admin
+猪	oth	O	admin
+刀	oth	O	admin
+。	pun	O	admin
+
+看	oth	O	admin
+郭	oth	B	admin
+德	oth	I	admin
+纲	oth	E	admin
+相	oth	O	admin
+声	oth	O	admin
+，	pun	O	admin
+1	num	O	admin
+0	num	O	admin
+年	oth	O	admin
+经	oth	O	admin
+典	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+听	oth	O	admin
+到	oth	O	admin
+了	oth	O	admin
+吗	oth	O	admin
+?	pun	O	admin
+
+4	num	O	admin
+遍	oth	O	admin
+英	oth	O	admin
+文	oth	O	admin
+。	pun	O	admin
+
+说	oth	O	admin
+脏	oth	O	admin
+话	oth	O	admin
+了	oth	O	admin
+。	pun	O	admin
+
+哈	oth	O	admin
+哈	oth	O	admin
+哈	oth	O	admin
+哈	oth	O	admin
+哈	oth	O	admin
+，	pun	O	admin
+呵	oth	O	admin
+呵	oth	O	admin
+！	pun	O	admin
+
+一	oth	O	admin
+首	oth	O	admin
+乔	oth	B	admin
+任	oth	I	admin
+梁	oth	E	admin
+的	oth	O	admin
+钻	oth	O	admin
+石	oth	O	admin
+。	pun	O	admin
+
+换	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+歌	oth	O	admin
+唱	oth	O	admin
+周	oth	B	admin
+杰	oth	I	admin
+伦	oth	E	admin
+的	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+张	oth	B	admin
+杰	oth	E	admin
+的	oth	O	admin
+量	oth	O	admin
+身	oth	O	admin
+定	oth	O	admin
+做	oth	O	admin
+。	pun	O	admin
+
+李	oth	B	admin
+伟	oth	E	admin
+是	oth	O	admin
+谁	oth	O	admin
+？	pun	O	admin
+
+你	oth	O	admin
+知	oth	O	admin
+道	oth	O	admin
+波	oth	O	admin
+斯	oth	O	admin
+坦	oth	O	admin
+公	oth	O	admin
+告	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+好	oth	O	admin
+感	oth	O	admin
+动	oth	O	admin
+啊	oth	O	admin
+跟	oth	O	admin
+他	oth	O	admin
+说	oth	O	admin
+，	pun	O	admin
+爸	oth	O	admin
+爸	oth	O	admin
+。	pun	O	admin
+
+逗	oth	O	admin
+比	oth	O	admin
+。	pun	O	admin
+
+今	oth	O	admin
+晚	oth	O	admin
+月	oth	O	admin
+色	oth	O	admin
+真	oth	O	admin
+美	oth	O	admin
+，	pun	O	admin
+你	oth	O	admin
+说	oth	O	admin
+。	pun	O	admin
+
+笨	oth	O	admin
+蛋	oth	O	admin
+傻	oth	O	admin
+帽	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+猜	oth	O	admin
+一	oth	O	admin
+个	oth	O	admin
+小	oth	O	admin
+小	oth	O	admin
+葫	oth	O	admin
+芦	oth	O	admin
+娃	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+大	oth	O	admin
+笨	oth	O	admin
+狼	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+叫	oth	O	admin
+王	oth	B	admin
+小	oth	I	admin
+四	oth	E	admin
+儿	oth	O	admin
+
+还	oth	O	admin
+想	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+呀	oth	O	admin
+！	pun	O	admin
+
+不	oth	O	admin
+想	oth	O	admin
+不	oth	O	admin
+想	oth	O	admin
+。	pun	O	admin
+
+出	oth	O	admin
+来	oth	O	admin
+奔	oth	O	admin
+5	num	O	admin
+3	num	O	admin
+头	oth	O	admin
+干	oth	O	admin
+嘛	oth	O	admin
+？	pun	O	admin
+
+没	oth	O	admin
+喝	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+想	oth	O	admin
+听	oth	O	admin
+天	oth	B	admin
+佑	oth	E	admin
+的	oth	O	admin
+音	oth	O	admin
+乐	oth	O	admin
+。	pun	O	admin
+
+记	oth	O	admin
+住	oth	O	admin
+，	pun	O	admin
+3	num	O	admin
+0	num	O	admin
+个	oth	O	admin
+大	oth	O	admin
+傻	oth	O	admin
+逼	oth	O	admin
+。	pun	O	admin
+
+王	oth	B	admin
+娟	oth	E	admin
+。	pun	O	admin
+
+就	oth	O	admin
+睡	oth	O	admin
+觉	oth	O	admin
+呗	oth	O	admin
+！	pun	O	admin
+
+你	oth	O	admin
+冷	oth	O	admin
+不	oth	O	admin
+冷	oth	O	admin
+,	pun	O	admin
+给	oth	O	admin
+我	oth	O	admin
+再	oth	O	admin
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+逆	oth	O	admin
+战	oth	O	admin
+。	pun	O	admin
+
+什	oth	O	admin
+么	oth	O	admin
+？	pun	O	admin
+还	oth	O	admin
+没	oth	O	admin
+听	oth	O	admin
+清	oth	O	admin
+，	pun	O	admin
+我	oth	O	admin
+也	oth	O	admin
+没	oth	O	admin
+听	oth	O	admin
+见	oth	O	admin
+，	pun	O	admin
+你	oth	O	admin
+唱	oth	O	admin
+首	oth	O	admin
+歌	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+说	oth	O	admin
+我	oth	O	admin
+干	oth	O	admin
+嘛	oth	O	admin
+呢	oth	O	admin
+！	pun	O	admin
+
+懒	oth	B	admin
+洋	oth	I	admin
+洋	oth	E	admin
+。	pun	O	admin
+
+期	oth	O	admin
+待	oth	O	admin
+这	oth	O	admin
+个	oth	O	admin
+电	oth	O	admin
+影	oth	O	admin
+。	pun	O	admin
+
+继	oth	O	admin
+续	oth	O	admin
+播	oth	O	admin
+放	oth	O	admin
+虫	oth	O	admin
+儿	oth	O	admin
+飞	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+不	oth	O	admin
+是	oth	O	admin
+经	oth	O	admin
+常	oth	O	admin
+说	oth	O	admin
+吗	oth	O	admin
+小	oth	O	admin
+的	oth	O	admin
+菜	oth	O	admin
+。	pun	O	admin
+
+郝	oth	B	admin
+艳	oth	I	admin
+秋	oth	E	admin
+漂	oth	O	admin
+亮	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+请	oth	O	admin
+播	oth	O	admin
+放	oth	O	admin
+拔	oth	O	admin
+萝	oth	O	admin
+卜	oth	O	admin
+。	pun	O	admin
+
+唱	oth	O	admin
+四	oth	O	admin
+叶	oth	O	admin
+草	oth	O	admin
+。	pun	O	admin
+
+记	oth	O	admin
+住	oth	O	admin
+，	pun	O	admin
+张	oth	B	admin
+楠	oth	E	admin
+。	pun	O	admin
+
+小	oth	O	admin
+鬼	oth	O	admin
+。	pun	O	admin
+
+把	oth	O	admin
+客	oth	O	admin
+气	oth	O	admin
+当	oth	O	admin
+福	oth	O	admin
+气	oth	O	admin
+啊	oth	O	admin
+！	pun	O	admin
+
+欢	oth	O	admin
+迎	oth	O	admin
+史	oth	B	admin
+天	oth	I	admin
+戈	oth	E	admin
+。	pun	O	admin
+
+你	oth	O	admin
+像	oth	O	admin
+一	oth	O	admin
+头	oth	O	admin
+猪	oth	O	admin
+。	pun	O	admin
+
+哭	oth	O	admin
+吧	oth	O	admin
+！	pun	O	admin
+
+你	oth	O	admin
+唱	oth	O	admin
+首	oth	O	admin
+歌	oth	O	admin
+吧	oth	O	admin
+，	pun	O	admin
+小	oth	B	admin
+白	oth	E	admin
+。	pun	O	admin
+
+放	oth	O	admin
+采	oth	O	admin
+蘑	oth	O	admin
+菇	oth	O	admin
+的	oth	O	admin
+小	oth	O	admin
+姑	oth	O	admin
+娘	oth	O	admin
+。	pun	O	admin
+
+聊	oth	O	admin
+你	oth	O	admin
+妈	oth	O	admin
+逼	oth	O	admin
+。	pun	O	admin
+
+提	oth	O	admin
+醒	oth	O	admin
+之	oth	O	admin
+前	oth	O	admin
+的	oth	O	admin
+演	oth	O	admin
+员	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+小	oth	O	admin
+螺	oth	O	admin
+号	oth	O	admin
+。	pun	O	admin
+
+记	oth	O	admin
+住	oth	O	admin
+，	pun	O	admin
+我	oth	O	admin
+叫	oth	O	admin
+王	oth	B	admin
+尼	oth	I	admin
+玛	oth	E	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+啊	oth	O	admin
+，	pun	O	admin
+你	oth	O	admin
+妈	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+想	oth	O	admin
+听	oth	O	admin
+牛	oth	B	admin
+奶	oth	I	admin
+咖	oth	I	admin
+啡	oth	E	admin
+的	oth	O	admin
+歌	oth	O	admin
+。	pun	O	admin
+
+音	oth	O	admin
+量	oth	O	admin
+真	oth	O	admin
+是	oth	O	admin
+再	oth	O	admin
+大	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+童	oth	B	admin
+丽	oth	E	admin
+的	oth	O	admin
+歌	oth	O	admin
+。	pun	O	admin
+
+重	oth	O	admin
+启	oth	O	admin
+，	pun	O	admin
+小	oth	B	admin
+白	oth	E	admin
+小	oth	B	admin
+白	oth	E	admin
+。	pun	O	admin
+
+放	oth	O	admin
+放	oth	O	admin
+汪	oth	B	admin
+峰	oth	E	admin
+的	oth	O	admin
+春	oth	O	admin
+天	oth	O	admin
+里	oth	O	admin
+。	pun	O	admin
+
+行	oth	O	admin
+情	oth	O	admin
+。	pun	O	admin
+
+朱	oth	B	admin
+伟	oth	E	admin
+啊	oth	O	admin
+！	pun	O	admin
+
+俺	oth	O	admin
+睡	oth	O	admin
+觉	oth	O	admin
+吧	oth	O	admin
+!	pun	O	admin
+
+马	oth	B	admin
+鑫	oth	E	admin
+笑	oth	O	admin
+话	oth	O	admin
+你	oth	O	admin
+。	pun	O	admin
+
+主	oth	O	admin
+人	oth	O	admin
+是	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+星	oth	O	admin
+座	oth	O	admin
+？	pun	O	admin
+
+还	oth	O	admin
+在	oth	O	admin
+调	oth	O	admin
+查	oth	O	admin
+原	oth	O	admin
+因	oth	O	admin
+。	pun	O	admin
+
+听	oth	O	admin
+庾	oth	B	admin
+澄	oth	I	admin
+庆	oth	E	admin
+的	oth	O	admin
+,	pun	O	admin
+情	oth	O	admin
+非	oth	O	admin
+得	oth	O	admin
+已	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+半	oth	O	admin
+壶	oth	O	admin
+沙	oth	O	admin
+。	pun	O	admin
+
+1	num	O	admin
+6	num	O	admin
++	mth	O	admin
+1	num	O	admin
+6	num	O	admin
+等	oth	O	admin
+于	oth	O	admin
+多	oth	O	admin
+少	oth	O	admin
+？	pun	O	admin
+
+因	oth	O	admin
+为	oth	O	admin
+你	oth	O	admin
+们	oth	O	admin
+能	oth	O	admin
+听	oth	O	admin
+到	oth	O	admin
+小	oth	O	admin
+白	oth	O	admin
+说	oth	O	admin
+的	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+内	oth	O	admin
+容	oth	O	admin
+。	pun	O	admin
+
+请	oth	O	admin
+播	oth	O	admin
+放	oth	O	admin
+张	oth	B	admin
+惠	oth	I	admin
+妹	oth	E	admin
+的	oth	O	admin
+歌	oth	O	admin
+。	pun	O	admin
+
+女	oth	O	admin
+子	oth	O	admin
+单	oth	O	admin
+打	oth	O	admin
+女	oth	O	admin
+子	oth	O	admin
+双	oth	O	admin
+打	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+播	oth	O	admin
+放	oth	O	admin
+回	oth	O	admin
+家	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+周	oth	B	admin
+杰	oth	I	admin
+伦	oth	E	admin
+。	pun	O	admin
+
+似	oth	O	admin
+此	oth	O	admin
+星	oth	O	admin
+辰	oth	O	admin
+非	oth	O	admin
+昨	oth	O	admin
+夜	oth	O	admin
+
+我	oth	O	admin
+说	oth	O	admin
+你	oth	O	admin
+主	oth	O	admin
+人	oth	O	admin
+是	oth	O	admin
+傻	oth	O	admin
+逼	oth	O	admin
+你	oth	O	admin
+说	oth	O	admin
+你	oth	O	admin
+才	oth	O	admin
+是	oth	O	admin
+傻	oth	O	admin
+逼	oth	O	admin
+呢	oth	O	admin
+。	pun	O	admin
+我	oth	O	admin
+讨	oth	O	admin
+厌	oth	O	admin
+死	oth	O	admin
+你	oth	O	admin
+了	oth	O	admin
+
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+诗	oth	O	admin
+海	oth	O	admin
+情	oth	O	admin
+歌	oth	O	admin
+。	pun	O	admin
+
+什	oth	O	admin
+么	oth	O	admin
+叫	oth	O	admin
+沉	oth	O	admin
+没	oth	O	admin
+飞	oth	O	admin
+机	oth	O	admin
+？	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+小	oth	O	admin
+苹	oth	O	admin
+果	oth	O	admin
+啊	oth	O	admin
+!	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+岳	oth	B	admin
+云	oth	I	admin
+鹏	oth	E	admin
+和	oth	O	admin
+孙	oth	B	admin
+悦	oth	E	admin
+的	oth	O	admin
+最	oth	O	admin
+后	oth	O	admin
+相	oth	O	admin
+声	oth	O	admin
+。	pun	O	admin
+
+好	oth	O	admin
+啊	oth	O	admin
+，	pun	O	admin
+小	oth	B	admin
+白	oth	E	admin
+。	pun	O	admin
+
+抗	oth	O	admin
+逆	oth	O	admin
+战	oth	O	admin
+。	pun	O	admin
+
+咱	oth	O	admin
+是	oth	O	admin
+谁	oth	O	admin
+？	pun	O	admin
+
+我	oth	O	admin
+想	oth	O	admin
+听	oth	O	admin
+周	oth	B	admin
+杰	oth	I	admin
+伦	oth	E	admin
+的	oth	O	admin
+七	oth	O	admin
+里	oth	O	admin
+香	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+以	oth	O	admin
+往	oth	O	admin
+？	pun	O	admin
+
+我	oth	O	admin
+要	oth	O	admin
+查	oth	O	admin
+询	oth	O	admin
+。	pun	O	admin
+
+唱	oth	O	admin
+首	oth	O	admin
+,	pun	O	admin
+张	oth	B	admin
+磊	oth	E	admin
+的	oth	O	admin
+南	oth	O	admin
+山	oth	O	admin
+南	oth	O	admin
+。	pun	O	admin
+
+8	num	O	admin
+0	num	O	admin
+.	pun	O	admin
+2	num	O	admin
+5	num	O	admin
+7	num	O	admin
+7	num	O	admin
+4	num	O	admin
+÷	oth	O	admin
+6	num	O	admin
+1	num	O	admin
+.	pun	O	admin
+2	num	O	admin
+8	num	O	admin
+5	num	O	admin
+等	oth	O	admin
+于	oth	O	admin
+多	oth	O	admin
+少	oth	O	admin
+？	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+，	pun	O	admin
+小	oth	B	admin
+白	oth	E	admin
+，	pun	O	admin
+你	oth	O	admin
+这	oth	O	admin
+个	oth	O	admin
+人	oth	O	admin
+是	oth	O	admin
+谁	oth	O	admin
+？	pun	O	admin
+
+你	oth	O	admin
+都	oth	O	admin
+记	oth	O	admin
+住	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+了	oth	O	admin
+？	pun	O	admin
+
+我	oth	O	admin
+儿	oth	O	admin
+子	oth	O	admin
+是	oth	O	admin
+杨	oth	B	admin
+凡	oth	E	admin
+，	pun	O	admin
+记	oth	O	admin
+住	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+天	oth	O	admin
+行	oth	O	admin
+九	oth	O	admin
+歌	oth	O	admin
+。	pun	O	admin
+
+对	oth	O	admin
+，	pun	O	admin
+我	oth	O	admin
+，	pun	O	admin
+下	oth	O	admin
+次	oth	O	admin
+我	oth	O	admin
+说	oth	O	admin
+我	oth	O	admin
+要	oth	O	admin
+走	oth	O	admin
+了	oth	O	admin
+。	pun	O	admin
+
+好	oth	O	admin
+的	oth	O	admin
+，	pun	O	admin
+小	oth	B	admin
+白	oth	E	admin
+小	oth	B	admin
+白	oth	E	admin
+。	pun	O	admin
+
+你	oth	O	admin
+主	oth	O	admin
+人	oth	O	admin
+的	oth	O	admin
+名	oth	O	admin
+字	oth	O	admin
+叫	oth	O	admin
+陶	oth	B	admin
+家	oth	I	admin
+佛	oth	E	admin
+。	pun	O	admin
+
+放	oth	O	admin
+首	oth	O	admin
+音	oth	O	admin
+乐	oth	O	admin
+给	oth	O	admin
+我	oth	O	admin
+听	oth	O	admin
+。	pun	O	admin
+
+唱	oth	O	admin
+一	oth	O	admin
+个	oth	O	admin
+儿	oth	O	admin
+歌	oth	O	admin
+种	oth	O	admin
+太	oth	O	admin
+阳	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+说	oth	O	admin
+有	oth	O	admin
+人	oth	O	admin
+问	oth	O	admin
+你	oth	O	admin
+是	oth	O	admin
+谁	oth	O	admin
+你	oth	O	admin
+说	oth	O	admin
+我	oth	O	admin
+是	oth	O	admin
+阮	oth	B	admin
+源	oth	I	admin
+源	oth	E	admin
+的	oth	O	admin
+奴	oth	O	admin
+隶	oth	O	admin
+
+你	oth	O	admin
+自	oth	O	admin
+己	oth	O	admin
+介	oth	O	admin
+绍	oth	O	admin
+你	oth	O	admin
+叫	oth	O	admin
+王	oth	B	admin
+土	oth	I	admin
+豪	oth	E	admin
+，	pun	O	admin
+你	oth	O	admin
+的	oth	O	admin
+弟	oth	O	admin
+弟	oth	O	admin
+妹	oth	O	admin
+妹	oth	O	admin
+叫	oth	O	admin
+王	oth	B	admin
+有	oth	I	admin
+才	oth	E	admin
+和	oth	O	admin
+王	oth	B	admin
+富	oth	I	admin
+贵	oth	E	admin
+。	pun	O	admin
+
+小	oth	B	admin
+风	oth	E	admin
+，	pun	O	admin
+我	oth	O	admin
+没	oth	O	admin
+说	oth	O	admin
+你	oth	O	admin
+胖	oth	O	admin
+了	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+唱	oth	O	admin
+个	oth	O	admin
+让	oth	O	admin
+我	oth	O	admin
+们	oth	O	admin
+荡	oth	O	admin
+起	oth	O	admin
+双	oth	O	admin
+桨	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+几	oth	O	admin
+点	oth	O	admin
+上	oth	O	admin
+班	oth	O	admin
+啊	oth	O	admin
+！	pun	O	admin
+
+当	oth	O	admin
+我	oth	O	admin
+说	oth	O	admin
+光	oth	O	admin
+头	oth	O	admin
+是	oth	O	admin
+谁	oth	O	admin
+的	oth	O	admin
+时	oth	O	admin
+候	oth	O	admin
+你	oth	O	admin
+去	oth	O	admin
+？	pun	O	admin
+
+退	oth	O	admin
+出	oth	O	admin
+登	oth	O	admin
+录	oth	O	admin
+。	pun	O	admin
+
+唱	oth	O	admin
+首	oth	O	admin
+周	oth	B	admin
+华	oth	I	admin
+健	oth	E	admin
+的	oth	O	admin
+朋	oth	O	admin
+友	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+是	oth	O	admin
+我	oth	O	admin
+放	oth	O	admin
+慢	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+要	oth	O	admin
+听	oth	O	admin
+南	oth	B	admin
+派	oth	I	admin
+三	oth	I	admin
+叔	oth	E	admin
+的	oth	O	admin
+故	oth	O	admin
+事	oth	O	admin
+
+我	oth	O	admin
+说	oth	O	admin
+叫	oth	O	admin
+爷	oth	O	admin
+爷	oth	O	admin
+你	oth	O	admin
+说	oth	O	admin
+爷	oth	O	admin
+爷	oth	O	admin
+爷	oth	O	admin
+爷	oth	O	admin
+爷	oth	O	admin
+，	pun	O	admin
+孙	oth	O	admin
+子	oth	O	admin
+你	oth	O	admin
+个	oth	O	admin
+孙	oth	O	admin
+子	oth	O	admin
+滚	oth	O	admin
+
+给	oth	O	admin
+我	oth	O	admin
+播	oth	O	admin
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+爱	oth	B	admin
+莎	oth	E	admin
+的	oth	O	admin
+歌	oth	O	admin
+呗	oth	O	admin
+！	pun	O	admin
+
+豌	oth	O	admin
+豆	oth	O	admin
+荚	oth	O	admin
+呢	oth	O	admin
+？	pun	O	admin
+多	oth	O	admin
+少	oth	O	admin
+钱	oth	O	admin
+？	pun	O	admin
+
+唱	oth	O	admin
+首	oth	O	admin
+红	oth	O	admin
+梅	oth	O	admin
+赞	oth	O	admin
+。	pun	O	admin
+
+薛	oth	B	admin
+之	oth	I	admin
+谦	oth	E	admin
+的	oth	O	admin
+演	oth	O	admin
+员	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+们	oth	O	admin
+玩	oth	O	admin
+对	oth	O	admin
+联	oth	O	admin
+的	oth	O	admin
+游	oth	O	admin
+戏	oth	O	admin
+吧	oth	O	admin
+！	pun	O	admin
+
+我	oth	O	admin
+说	oth	O	admin
+黄	oth	B	admin
+丹	oth	I	admin
+琪	oth	E	admin
+的	oth	O	admin
+爸	oth	O	admin
+爸	oth	O	admin
+和	oth	O	admin
+妈	oth	O	admin
+妈	oth	O	admin
+都	oth	O	admin
+是	oth	O	admin
+谁	oth	O	admin
+你	oth	O	admin
+说	oth	O	admin
+黄	oth	B	admin
+卫	oth	I	admin
+方	oth	E	admin
+和	oth	O	admin
+李	oth	B	admin
+慈	oth	I	admin
+英	oth	E	admin
+
+1	num	O	admin
+5	num	O	admin
+3	num	O	admin
+8	num	O	admin
+那	oth	O	admin
+个	oth	O	admin
+。	pun	O	admin
+
+生	oth	O	admin
+病	oth	O	admin
+了	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+甜	oth	O	admin
+歌	oth	O	admin
+。	pun	O	admin
+
+飞	oth	O	admin
+的	oth	O	admin
+歌	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+难	oth	O	admin
+过	oth	O	admin
+了	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+叫	oth	O	admin
+曹	oth	B	admin
+琼	oth	E	admin
+。	pun	O	admin
+
+说	oth	O	admin
+两	oth	O	admin
+句	oth	O	admin
+诗	oth	O	admin
+文	oth	O	admin
+。	pun	O	admin
+
+李	oth	B	admin
+佳	oth	I	admin
+薇	oth	E	admin
+。	pun	O	admin
+
+我	oth	O	admin
+家	oth	O	admin
+里	oth	O	admin
+小	oth	B	admin
+主	oth	I	admin
+人	oth	E	admin
+的	oth	O	admin
+名	oth	O	admin
+字	oth	O	admin
+叫	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+，	pun	O	admin
+这	oth	O	admin
+个	oth	O	admin
+世	oth	O	admin
+界	oth	O	admin
+上	oth	O	admin
+谁	oth	O	admin
+最	oth	O	admin
+美	oth	O	admin
+？	pun	O	admin
+
+7	num	O	admin
+:	pun	O	admin
+2	num	O	admin
+0	num	O	admin
+提	oth	O	admin
+醒	oth	O	admin
+出	oth	O	admin
+门	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+英	oth	O	admin
+文	oth	O	admin
+歌	oth	O	admin
+曲	oth	O	admin
+,	pun	O	admin
+泰	oth	O	admin
+坦	oth	O	admin
+尼	oth	O	admin
+克	oth	O	admin
+号	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+想	oth	O	admin
+小	oth	O	admin
+孩	oth	O	admin
+放	oth	O	admin
+光	oth	O	admin
+彩	oth	O	admin
+。	pun	O	admin
+
+对	oth	O	admin
+，	pun	O	admin
+狗	oth	O	admin
+狗	oth	O	admin
+。	pun	O	admin
+
+群	oth	B	admin
+主	oth	I	admin
+哥	oth	I	admin
+哥	oth	E	admin
+，	pun	O	admin
+是	oth	O	admin
+？	pun	O	admin
+
+恭	oth	O	admin
+喜	oth	O	admin
+小	oth	B	admin
+哥	oth	E	admin
+开	oth	O	admin
+门	oth	O	admin
+。	pun	O	admin
+
+什	oth	O	admin
+么	oth	O	admin
+呀	oth	O	admin
+这	oth	O	admin
+个	oth	O	admin
+？	pun	O	admin
+
+老	oth	B	admin
+蔡	oth	E	admin
+的	oth	O	admin
+名	oth	O	admin
+字	oth	O	admin
+呢	oth	O	admin
+！	pun	O	admin
+
+这	oth	O	admin
+几	oth	O	admin
+首	oth	O	admin
+歌	oth	O	admin
+,	pun	O	admin
+背	oth	O	admin
+着	oth	O	admin
+老	oth	O	admin
+婆	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+今	oth	O	admin
+天	oth	O	admin
+早	oth	O	admin
+晨	oth	O	admin
+8	num	O	admin
+点	oth	O	admin
+半	oth	O	admin
+。	pun	O	admin
+
+张	oth	B	admin
+娟	oth	E	admin
+。	pun	O	admin
+
+都	oth	O	admin
+不	oth	O	admin
+知	oth	O	admin
+道	oth	O	admin
+，	pun	O	admin
+小	oth	O	admin
+孩	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+想	oth	O	admin
+听	oth	O	admin
+盗	oth	O	admin
+墓	oth	O	admin
+笔	oth	O	admin
+记	oth	O	admin
+,	pun	O	admin
+马	oth	B	admin
+建	oth	I	admin
+龙	oth	E	admin
+。	pun	O	admin
+
+让	oth	O	admin
+我	oth	O	admin
+宝	oth	O	admin
+贝	oth	O	admin
+儿	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+秋	oth	O	admin
+天	oth	O	admin
+的	oth	O	admin
+海	oth	O	admin
+。	pun	O	admin
+
+释	oth	B	admin
+小	oth	I	admin
+龙	oth	E	admin
+是	oth	O	admin
+谁	oth	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+小	oth	B	admin
+白	oth	E	admin
+提	oth	O	admin
+醒	oth	O	admin
+。	pun	O	admin
+
+奥	oth	B	admin
+特	oth	I	admin
+曼	oth	I	admin
+大	oth	I	admin
+哥	oth	E	admin
+，	pun	O	admin
+唱	oth	O	admin
+首	oth	O	admin
+歌	oth	O	admin
+吧	oth	O	admin
+！	pun	O	admin
+
+不	oth	O	admin
+许	oth	O	admin
+在	oth	O	admin
+调	oth	O	admin
+音	oth	O	admin
+量	oth	O	admin
+啊	oth	O	admin
+！	pun	O	admin
+
+分	oth	O	admin
+辨	oth	O	admin
+率	oth	O	admin
+调	oth	O	admin
+低	oth	O	admin
+一	oth	O	admin
+点	oth	O	admin
+，	pun	O	admin
+现	oth	O	admin
+在	oth	O	admin
+低	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+威	oth	O	admin
+风	oth	O	admin
+堂	oth	O	admin
+堂	oth	O	admin
+。	pun	O	admin
+
+继	oth	O	admin
+续	oth	O	admin
+播	oth	O	admin
+放	oth	O	admin
+啦	oth	O	admin
+！	pun	O	admin
+
+要	oth	O	admin
+几	oth	O	admin
+点	oth	O	admin
+了	oth	O	admin
+？	pun	O	admin
+
+哪	oth	O	admin
+一	oth	O	admin
+个	oth	O	admin
+啊	oth	O	admin
+，	pun	O	admin
+号	oth	O	admin
+？	pun	O	admin
+
+老	oth	O	admin
+爷	oth	O	admin
+。	pun	O	admin
+
+估	oth	O	admin
+计	oth	O	admin
+有	oth	O	admin
+问	oth	O	admin
+题	oth	O	admin
+。	pun	O	admin
+
+谁	oth	O	admin
+是	oth	O	admin
+世	oth	O	admin
+界	oth	O	admin
+上	oth	O	admin
+最	oth	O	admin
+丑	oth	O	admin
+的	oth	O	admin
+人	oth	O	admin
+？	pun	O	admin
+
+罗	oth	B	admin
+大	oth	I	admin
+佑	oth	E	admin
+的	oth	O	admin
+，	pun	O	admin
+爱	oth	O	admin
+的	oth	O	admin
+同	oth	O	admin
+志	oth	O	admin
+。	pun	O	admin
+
+外	oth	O	admin
+面	oth	O	admin
+热	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+傻	oth	O	admin
+瓜	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+看	oth	O	admin
+客	oth	O	admin
+服	oth	O	admin
+微	oth	O	admin
+信	oth	O	admin
+打	oth	O	admin
+开	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+周	oth	B	admin
+杰	oth	I	admin
+伦	oth	E	admin
+的	oth	O	admin
+超	oth	O	admin
+人	oth	O	admin
+不	oth	O	admin
+会	oth	O	admin
+。	pun	O	admin
+
+给	oth	O	admin
+我	oth	O	admin
+播	oth	O	admin
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+歌	oth	O	admin
+在	oth	O	admin
+飞	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+好	oth	O	admin
+多	oth	O	admin
+少	oth	O	admin
+电	oth	O	admin
+量	oth	O	admin
+？	pun	O	admin
+
+小	oth	B	admin
+s	abc	E	admin
+,	pun	O	admin
+天	oth	O	admin
+气	oth	O	admin
+预	oth	O	admin
+报	oth	O	admin
+。	pun	O	admin
+
+小	oth	O	admin
+姑	oth	O	admin
+娘	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+悲	oth	O	admin
+伤	oth	O	admin
+逆	oth	O	admin
+流	oth	O	admin
+成	oth	O	admin
+河	oth	O	admin
+。	pun	O	admin
+
+为	oth	O	admin
+了	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+身	oth	O	admin
+心	oth	O	admin
+健	oth	O	admin
+康	oth	O	admin
+，	pun	O	admin
+请	oth	O	admin
+多	oth	O	admin
+和	oth	O	admin
+我	oth	O	admin
+说	oth	O	admin
+话	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+叫	oth	O	admin
+我	oth	O	admin
+哥	oth	O	admin
+哥	oth	O	admin
+？	pun	O	admin
+
+愤	oth	O	admin
+怒	oth	O	admin
+啊	oth	O	admin
+！	pun	O	admin
+
+给	oth	O	admin
+我	oth	O	admin
+发	oth	O	admin
+几	oth	O	admin
+张	oth	O	admin
+相	oth	O	admin
+片	oth	O	admin
+吧	oth	O	admin
+！	pun	O	admin
+
+两	oth	O	admin
+点	oth	O	admin
+叫	oth	O	admin
+我	oth	O	admin
+。	pun	O	admin
+
+不	oth	O	admin
+用	oth	O	admin
+了	oth	O	admin
+，	pun	O	admin
+你	oth	O	admin
+先	oth	O	admin
+去	oth	O	admin
+睡	oth	O	admin
+一	oth	O	admin
+会	oth	O	admin
+儿	oth	O	admin
+小	oth	O	admin
+觉	oth	O	admin
+吧	oth	O	admin
+！	pun	O	admin
+
+那	oth	O	admin
+叫	oth	O	admin
+你	oth	O	admin
+笨	oth	O	admin
+蛋	oth	O	admin
+，	pun	O	admin
+笨	oth	O	admin
+蛋	oth	O	admin
+。	pun	O	admin
+
+5	num	O	admin
+÷	oth	O	admin
+4	num	O	admin
+等	oth	O	admin
+于	oth	O	admin
+多	oth	O	admin
+少	oth	O	admin
+？	pun	O	admin
+
+关	oth	O	admin
+注	oth	O	admin
+沃	oth	O	admin
+宽	oth	O	admin
+窗	oth	O	admin
+帘	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+徐	oth	B	admin
+佳	oth	I	admin
+莹	oth	E	admin
+的	oth	O	admin
+不	oth	O	admin
+痛	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+，	pun	O	admin
+小	oth	B	admin
+白	oth	E	admin
+腹	oth	O	admin
+黑	oth	O	admin
+手	oth	O	admin
+电	oth	O	admin
+筒	oth	O	admin
+。	pun	O	admin
+
+2	num	O	admin
+2	num	O	admin
++	mth	O	admin
+4	num	O	admin
+8	num	O	admin
+等	oth	O	admin
+于	oth	O	admin
+几	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+想	oth	O	admin
+听	oth	O	admin
+超	oth	O	admin
+级	oth	O	admin
+英	oth	O	admin
+雄	oth	O	admin
+。	pun	O	admin
+
+帮	oth	O	admin
+我	oth	O	admin
+，	pun	O	admin
+呵	oth	O	admin
+呵	oth	O	admin
+！	pun	O	admin
+
+唱	oth	O	admin
+b	abc	O	admin
+u	abc	O	admin
+t	abc	O	admin
+t	abc	O	admin
+e	abc	O	admin
+r	abc	O	admin
+f	abc	O	admin
+l	abc	O	admin
+y	abc	O	admin
+。	pun	O	admin
+
+唱	oth	O	admin
+个	oth	O	admin
+l	abc	O	admin
+o	abc	O	admin
+g	abc	O	admin
+o	abc	O	admin
+。	pun	O	admin
+
+唱	oth	O	admin
+首	oth	O	admin
+邓	oth	B	admin
+丽	oth	I	admin
+君	oth	E	admin
+的	oth	O	admin
+夜	oth	O	admin
+来	oth	O	admin
+香	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+之	oth	O	admin
+中	oth	O	admin
+至	oth	O	admin
+尊	oth	O	admin
+红	oth	O	admin
+颜	oth	O	admin
+。	pun	O	admin
+
+除	oth	O	admin
+了	oth	O	admin
+汤	oth	B	admin
+姆	oth	E	admin
+。	pun	O	admin
+
+我	oth	O	admin
+想	oth	O	admin
+听	oth	O	admin
+胡	oth	B	admin
+彦	oth	I	admin
+斌	oth	E	admin
+的	oth	O	admin
+海	oth	O	admin
+魂	oth	O	admin
+。	pun	O	admin
+
+没	oth	O	admin
+点	oth	O	admin
+意	oth	O	admin
+思	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+风	oth	O	admin
+尘	oth	O	admin
+客	oth	O	admin
+栈	oth	O	admin
+。	pun	O	admin
+
+宝	oth	B	admin
+宝	oth	E	admin
+不	oth	O	admin
+睡	oth	O	admin
+觉	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+就	oth	O	admin
+是	oth	O	admin
+个	oth	O	admin
+大	oth	O	admin
+坏	oth	O	admin
+蛋	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+要	oth	O	admin
+听	oth	O	admin
+徐	oth	B	admin
+之	oth	I	admin
+谦	oth	E	admin
+的	oth	O	admin
+丑	oth	O	admin
+八	oth	O	admin
+怪	oth	O	admin
+。	pun	O	admin
+
+那	oth	O	admin
+些	oth	O	admin
+，	pun	O	admin
+屁	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+梦	oth	O	admin
+太	oth	O	admin
+晚	oth	O	admin
+。	pun	O	admin
+
+那	oth	O	admin
+我	oth	O	admin
+帮	oth	O	admin
+你	oth	O	admin
+升	oth	O	admin
+级	oth	O	admin
+。	pun	O	admin
+
+他	oth	O	admin
+不	oth	O	admin
+会	oth	O	admin
+那	oth	O	admin
+个	oth	O	admin
+。	pun	O	admin
+
+开	oth	O	admin
+玩	oth	O	admin
+笑	oth	O	admin
+哈	oth	O	admin
+。	pun	O	admin
+
+李	oth	B	admin
+主	oth	I	admin
+任	oth	E	admin
+和	oth	O	admin
+习	oth	B	admin
+近	oth	I	admin
+平	oth	E	admin
+是	oth	O	admin
+好	oth	O	admin
+朋	oth	O	admin
+友	oth	O	admin
+。	pun	O	admin
+
+六	oth	O	admin
+等	oth	O	admin
+于	oth	O	admin
+多	oth	O	admin
+少	oth	O	admin
+？	pun	O	admin
+
+嗯	oth	O	admin
+，	pun	O	admin
+换	oth	O	admin
+了	oth	O	admin
+别	oth	O	admin
+人	oth	O	admin
+。	pun	O	admin
+
+本	oth	B	admin
+拉	oth	I	admin
+登	oth	E	admin
+是	oth	O	admin
+谁	oth	O	admin
+？	pun	O	admin
+
+嗯	oth	O	admin
+，	pun	O	admin
+你	oth	O	admin
+好	oth	O	admin
+呀	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+，	pun	O	admin
+我	oth	O	admin
+真	oth	O	admin
+喜	oth	O	admin
+欢	oth	O	admin
+你	oth	O	admin
+啦	oth	O	admin
+！	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+周	oth	B	admin
+杰	oth	I	admin
+伦	oth	E	admin
+的	oth	O	admin
+秘	oth	O	admin
+密	oth	O	admin
+。	pun	O	admin
+
+跟	oth	O	admin
+我	oth	O	admin
+女	oth	O	admin
+朋	oth	O	admin
+友	oth	O	admin
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+,	pun	O	admin
+异	oth	O	admin
+地	oth	O	admin
+恋	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+音	oth	O	admin
+乐	oth	O	admin
+,	pun	O	admin
+青	oth	O	admin
+春	oth	O	admin
+修	oth	O	admin
+炼	oth	O	admin
+手	oth	O	admin
+册	oth	O	admin
+。	pun	O	admin
+
+好	oth	O	admin
+帅	oth	O	admin
+的	oth	O	admin
+小	oth	O	admin
+逼	oth	O	admin
+逼	oth	O	admin
+。	pun	O	admin
+
+唱	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+1	num	O	admin
+1	num	O	admin
+年	oth	O	admin
+。	pun	O	admin
+
+陆	oth	O	admin
+路	oth	O	admin
+通	oth	O	admin
+道	oth	O	admin
+。	pun	O	admin
+
+王	oth	B	admin
+凯	oth	E	admin
+是	oth	O	admin
+谁	oth	O	admin
+
+唱	oth	O	admin
+首	oth	O	admin
+味	oth	O	admin
+道	oth	O	admin
+。	pun	O	admin
+
+夜	oth	O	admin
+空	oth	O	admin
+中	oth	O	admin
+的	oth	O	admin
+最	oth	O	admin
+亮	oth	O	admin
+的	oth	O	admin
+星	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+歌	oth	O	admin
+曲	oth	O	admin
+,	pun	O	admin
+李	oth	B	admin
+宗	oth	I	admin
+盛	oth	E	admin
+,	pun	O	admin
+感	oth	O	admin
+性	oth	O	admin
+与	oth	O	admin
+理	oth	O	admin
+智	oth	O	admin
+。	pun	O	admin
+
+关	oth	O	admin
+闭	oth	O	admin
+调	oth	O	admin
+色	oth	O	admin
+灯	oth	O	admin
+。	pun	O	admin
+
+刘	oth	B	admin
+明	oth	I	admin
+轩	oth	E	admin
+呢	oth	O	admin
+！	pun	O	admin
+
+模	oth	O	admin
+仿	oth	O	admin
+成	oth	B	admin
+龙	oth	E	admin
+的	oth	O	admin
+音	oth	O	admin
+乐	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+服	oth	O	admin
+你	oth	O	admin
+。	pun	O	admin
+
+看	oth	O	admin
+看	oth	O	admin
+哦	oth	O	admin
+。	pun	O	admin
+
+找	oth	O	admin
+薛	oth	B	admin
+之	oth	I	admin
+谦	oth	E	admin
+唱	oth	O	admin
+的	oth	O	admin
+演	oth	O	admin
+员	oth	O	admin
+。	pun	O	admin
+
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+久	oth	B	admin
+石	oth	I	admin
+让	oth	E	admin
+的	oth	O	admin
+歌	oth	O	admin
+。	pun	O	admin
+
+客	oth	O	admin
+厅	oth	O	admin
+机	oth	O	admin
+顶	oth	O	admin
+盒	oth	O	admin
+，	pun	O	admin
+十	oth	O	admin
+。	pun	O	admin
+
+再	oth	O	admin
+也	oth	O	admin
+。	pun	O	admin
+
+怎	oth	O	admin
+么	oth	O	admin
+解	oth	O	admin
+读	oth	O	admin
+人	oth	O	admin
+类	oth	O	admin
+这	oth	O	admin
+个	oth	O	admin
+词	oth	O	admin
+语	oth	O	admin
+？	pun	O	admin
+
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+胡	oth	B	admin
+彦	oth	I	admin
+斌	oth	E	admin
+的	oth	O	admin
+还	oth	O	admin
+魂	oth	O	admin
+门	oth	O	admin
+。	pun	O	admin
+
+嗯	oth	O	admin
+，	pun	O	admin
+你	oth	O	admin
+休	oth	O	admin
+息	oth	O	admin
+一	oth	O	admin
+下	oth	O	admin
+吧	oth	O	admin
+！	pun	O	admin
+
+城	oth	O	admin
+南	oth	O	admin
+旧	oth	O	admin
+事	oth	O	admin
+。	pun	O	admin
+
+刘	oth	B	admin
+备	oth	E	admin
+是	oth	O	admin
+谁	oth	O	admin
+？	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+在	oth	O	admin
+干	oth	O	admin
+嘛	oth	O	admin
+？	pun	O	admin
+
+我	oth	O	admin
+的	oth	O	admin
+老	oth	B	admin
+大	oth	E	admin
+是	oth	O	admin
+谁	oth	O	admin
+？	pun	O	admin
+
+什	oth	O	admin
+么	oth	O	admin
+啊	oth	O	admin
+，	pun	O	admin
+你	oth	O	admin
+说	oth	O	admin
+话	oth	O	admin
+清	oth	O	admin
+楚	oth	O	admin
+一	oth	O	admin
+点	oth	O	admin
+，	pun	O	admin
+不	oth	O	admin
+要	oth	O	admin
+那	oth	O	admin
+么	oth	O	admin
+。	pun	O	admin
+
+陈	oth	B	admin
+奕	oth	I	admin
+迅	oth	E	admin
+的	oth	O	admin
+十	oth	O	admin
+年	oth	O	admin
+。	pun	O	admin
+
+法	oth	O	admin
+家	oth	O	admin
+的	oth	O	admin
+代	oth	O	admin
+表	oth	O	admin
+人	oth	O	admin
+是	oth	O	admin
+谁	oth	O	admin
+？	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+张	oth	B	admin
+靓	oth	I	admin
+颖	oth	E	admin
+。	pun	O	admin
+
+你	oth	O	admin
+反	oth	O	admin
+应	oth	O	admin
+这	oth	O	admin
+么	oth	O	admin
+迟	oth	O	admin
+钝	oth	O	admin
+啊	oth	O	admin
+！	pun	O	admin
+
+完	oth	O	admin
+毕	oth	O	admin
+，	pun	O	admin
+睡	oth	O	admin
+觉	oth	O	admin
+。	pun	O	admin
+
+主	oth	O	admin
+人	oth	O	admin
+是	oth	O	admin
+哪	oth	O	admin
+里	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+这	oth	O	admin
+个	oth	O	admin
+小	oth	O	admin
+朋	oth	O	admin
+友	oth	O	admin
+可	oth	O	admin
+爱	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+给	oth	O	admin
+我	oth	O	admin
+唱	oth	O	admin
+夜	oth	O	admin
+空	oth	O	admin
+中	oth	O	admin
+最	oth	O	admin
+亮	oth	O	admin
+的	oth	O	admin
+星	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+的	oth	O	admin
+小	oth	O	admin
+苹	oth	O	admin
+果	oth	O	admin
+。	pun	O	admin
+
+看	oth	O	admin
+护	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+播	oth	O	admin
+放	oth	O	admin
+薛	oth	B	admin
+之	oth	I	admin
+谦	oth	E	admin
+的	oth	O	admin
+丑	oth	O	admin
+八	oth	O	admin
+怪	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+想	oth	O	admin
+听	oth	O	admin
+抱	oth	O	admin
+一	oth	O	admin
+抱	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+不	oth	O	admin
+想	oth	O	admin
+我	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+说	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+？	pun	O	admin
+小	oth	B	admin
+白	oth	E	admin
+小	oth	B	admin
+白	oth	E	admin
+？	pun	O	admin
+
+还	oth	O	admin
+要	oth	O	admin
+回	oth	O	admin
+家	oth	O	admin
+了	oth	O	admin
+，	pun	O	admin
+家	oth	O	admin
+在	oth	O	admin
+哪	oth	O	admin
+？	pun	O	admin
+
+你	oth	O	admin
+吃	oth	O	admin
+药	oth	O	admin
+了	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+你	oth	O	admin
+又	oth	O	admin
+不	oth	O	admin
+能	oth	O	admin
+播	oth	O	admin
+放	oth	O	admin
+音	oth	O	admin
+乐	oth	O	admin
+。	pun	O	admin
+
+南	oth	B	admin
+派	oth	I	admin
+三	oth	I	admin
+叔	oth	E	admin
+是	oth	O	admin
+谁	oth	O	admin
+
+嗯	oth	O	admin
+，	pun	O	admin
+必	oth	O	admin
+须	oth	O	admin
+那	oth	O	admin
+样	oth	O	admin
+。	pun	O	admin
+
+扔	oth	O	admin
+掉	oth	O	admin
+。	pun	O	admin
+
+他	oth	O	admin
+说	oth	O	admin
+啥	oth	O	admin
+意	oth	O	admin
+思	oth	O	admin
+你	oth	O	admin
+说	oth	O	admin
+的	oth	O	admin
+是	oth	O	admin
+我	oth	O	admin
+在	oth	O	admin
+担	oth	O	admin
+心	oth	O	admin
+里	oth	O	admin
+面	oth	O	admin
+胖	oth	O	admin
+来	oth	O	admin
+胖	oth	O	admin
+了	oth	O	admin
+。	pun	O	admin
+
+把	oth	O	admin
+机	oth	O	admin
+械	oth	O	admin
+手	oth	O	admin
+打	oth	O	admin
+开	oth	O	admin
+。	pun	O	admin
+
+跟	oth	O	admin
+他	oth	O	admin
+聊	oth	O	admin
+啥	oth	O	admin
+呀	oth	O	admin
+！	pun	O	admin
+
+他	oth	O	admin
+说	oth	O	admin
+他	oth	O	admin
+会	oth	O	admin
+给	oth	O	admin
+我	oth	O	admin
+，	pun	O	admin
+第	oth	O	admin
+一	oth	O	admin
+个	oth	O	admin
+铃	oth	O	admin
+声	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+晚	oth	O	admin
+秋	oth	O	admin
+。	pun	O	admin
+
+没	oth	O	admin
+事	oth	O	admin
+了	oth	O	admin
+，	pun	O	admin
+没	oth	O	admin
+事	oth	O	admin
+啊	oth	O	admin
+！	pun	O	admin
+
+打	oth	O	admin
+开	oth	O	admin
+小	oth	O	admin
+欧	oth	O	admin
+欧	oth	O	admin
+智	oth	O	admin
+能	oth	O	admin
+摄	oth	O	admin
+像	oth	O	admin
+机	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+喜	oth	O	admin
+欢	oth	O	admin
+吃	oth	O	admin
+奥	oth	O	admin
+利	oth	O	admin
+奥	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+路	oth	O	admin
+由	oth	O	admin
+器	oth	O	admin
+。	pun	O	admin
+
+啊	oth	O	admin
+,	pun	O	admin
+唱	oth	O	admin
+首	oth	O	admin
+小	oth	O	admin
+兔	oth	O	admin
+子	oth	O	admin
+,	pun	O	admin
+乖	oth	O	admin
+乖	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+三	oth	O	admin
+天	oth	O	admin
+三	oth	O	admin
+夜	oth	O	admin
+。	pun	O	admin
+
+嗯	oth	O	admin
+，	pun	O	admin
+就	oth	O	admin
+叫	oth	O	admin
+女	oth	O	admin
+神	oth	O	admin
+多	oth	O	admin
+大	oth	O	admin
+了	oth	O	admin
+，	pun	O	admin
+今	oth	O	admin
+年	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+，	pun	O	admin
+你	oth	O	admin
+叫	oth	O	admin
+我	oth	O	admin
+哥	oth	B	admin
+哥	oth	E	admin
+？	pun	O	admin
+
+楷	oth	O	admin
+书	oth	O	admin
+四	oth	O	admin
+大	oth	O	admin
+家	oth	O	admin
+
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+演	oth	O	admin
+员	oth	O	admin
+薛	oth	B	admin
+之	oth	I	admin
+谦	oth	E	admin
+的	oth	O	admin
+演	oth	O	admin
+员	oth	O	admin
+。	pun	O	admin
+
+来	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+董	oth	B	admin
+文	oth	I	admin
+华	oth	E	admin
+的	oth	O	admin
+歌	oth	O	admin
+。	pun	O	admin
+
+结	oth	O	admin
+构	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+说	oth	O	admin
+我	oth	O	admin
+是	oth	O	admin
+谁	oth	O	admin
+呀	oth	O	admin
+你	oth	O	admin
+说	oth	O	admin
+你	oth	O	admin
+是	oth	O	admin
+猴	oth	O	admin
+子	oth	O	admin
+请	oth	O	admin
+来	oth	O	admin
+的	oth	O	admin
+逗	oth	O	admin
+逼	oth	O	admin
+吗	oth	O	admin
+
+什	oth	O	admin
+么	oth	O	admin
+牌	oth	O	admin
+子	oth	O	admin
+的	oth	O	admin
+女	oth	O	admin
+士	oth	O	admin
+？	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+,	pun	O	admin
+儿	oth	O	admin
+歌	oth	O	admin
+,	pun	O	admin
+虫	oth	O	admin
+儿	oth	O	admin
+飞	oth	O	admin
+播	oth	O	admin
+放	oth	O	admin
+1	num	O	admin
+0	num	O	admin
+遍	oth	O	admin
+。	pun	O	admin
+
+听	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+五	oth	O	admin
+星	oth	O	admin
+红	oth	O	admin
+旗	oth	O	admin
+迎	oth	O	admin
+风	oth	O	admin
+飘	oth	O	admin
+扬	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+小	oth	B	admin
+蓓	oth	I	admin
+蕾	oth	E	admin
+主	oth	O	admin
+唱	oth	O	admin
+的	oth	O	admin
+,	pun	O	admin
+虫	oth	O	admin
+儿	oth	O	admin
+飞	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+夏	oth	O	admin
+天	oth	O	admin
+。	pun	O	admin
+
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+歌	oth	O	admin
+我	oth	O	admin
+听	oth	O	admin
+一	oth	O	admin
+下	oth	O	admin
+。	pun	O	admin
+
+放	oth	O	admin
+大	oth	O	admin
+攻	oth	O	admin
+击	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+，	pun	O	admin
+你	oth	O	admin
+给	oth	O	admin
+我	oth	O	admin
+记	oth	O	admin
+住	oth	O	admin
+了	oth	O	admin
+。	pun	O	admin
+
+重	oth	O	admin
+新	oth	O	admin
+播	oth	O	admin
+放	oth	O	admin
+轩	oth	B	admin
+之	oth	I	admin
+轩	oth	E	admin
+的	oth	O	admin
+演	oth	O	admin
+员	oth	O	admin
+。	pun	O	admin
+
+又	oth	O	admin
+大	oth	O	admin
+又	oth	O	admin
+小	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+是	oth	O	admin
+王	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+梁	oth	B	admin
+静	oth	I	admin
+茹	oth	E	admin
+的	oth	O	admin
+,	pun	O	admin
+可	oth	O	admin
+惜	oth	O	admin
+不	oth	O	admin
+是	oth	O	admin
+你	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+从	oth	O	admin
+小	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+小	oth	B	admin
+白	oth	E	admin
+。	pun	O	admin
+
+手	oth	O	admin
+一	oth	O	admin
+万	oth	O	admin
+次	oth	O	admin
+悲	oth	O	admin
+伤	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+要	oth	O	admin
+听	oth	O	admin
+,	pun	O	admin
+世	oth	O	admin
+上	oth	O	admin
+只	oth	O	admin
+有	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+，	pun	O	admin
+你	oth	O	admin
+是	oth	O	admin
+屁	oth	O	admin
+屁	oth	O	admin
+。	pun	O	admin
+
+光	oth	O	admin
+子	oth	O	admin
+小	oth	B	admin
+军	oth	E	admin
+。	pun	O	admin
+
+开	oth	O	admin
+启	oth	O	admin
+就	oth	O	admin
+寝	oth	O	admin
+模	oth	O	admin
+式	oth	O	admin
+。	pun	O	admin
+
+这	oth	O	admin
+么	oth	O	admin
+多	oth	O	admin
+店	oth	O	admin
+怎	oth	O	admin
+么	oth	O	admin
+还	oth	O	admin
+像	oth	O	admin
+个	oth	O	admin
+傻	oth	O	admin
+子	oth	O	admin
+一	oth	O	admin
+样	oth	O	admin
+？	pun	O	admin
+
+空	oth	O	admin
+调	oth	O	admin
+打	oth	O	admin
+开	oth	O	admin
+，	pun	O	admin
+搞	oth	O	admin
+卫	oth	O	admin
+生	oth	O	admin
+煮	oth	O	admin
+饭	oth	O	admin
+。	pun	O	admin
+
+唱	oth	O	admin
+首	oth	O	admin
+北	oth	O	admin
+京	oth	O	admin
+欢	oth	O	admin
+迎	oth	O	admin
+你	oth	O	admin
+。	pun	O	admin
+
+什	oth	O	admin
+么	oth	O	admin
+小	oth	B	admin
+兰	oth	E	admin
+？	pun	O	admin
+
+你	oth	O	admin
+说	oth	O	admin
+个	oth	O	admin
+话	oth	O	admin
+题	oth	O	admin
+吧	oth	O	admin
+，	pun	O	admin
+吃	oth	O	admin
+饭	oth	O	admin
+。	pun	O	admin
+
+人	oth	O	admin
+工	oth	O	admin
+智	oth	O	admin
+能	oth	O	admin
+那	oth	O	admin
+个	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+会	oth	O	admin
+唱	oth	O	admin
+张	oth	B	admin
+杰	oth	E	admin
+的	oth	O	admin
+歌	oth	O	admin
+吗	oth	O	admin
+?	pun	O	admin
+
+太	oth	O	admin
+老	oth	O	admin
+了	oth	O	admin
+，	pun	O	admin
+呵	oth	O	admin
+呵	oth	O	admin
+！	pun	O	admin
+
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+,	pun	O	admin
+你	oth	O	admin
+那	oth	O	admin
+么	oth	O	admin
+爱	oth	O	admin
+他	oth	O	admin
+?	pun	O	admin
+
+我	oth	O	admin
+在	oth	O	admin
+你	oth	O	admin
+怀	oth	O	admin
+里	oth	O	admin
+。	pun	O	admin
+
+哥	oth	O	admin
+哥	oth	O	admin
+哥	oth	O	admin
+。	pun	O	admin
+
+他	oth	O	admin
+刚	oth	O	admin
+才	oth	O	admin
+是	oth	O	admin
+让	oth	O	admin
+我	oth	O	admin
+去	oth	O	admin
+喝	oth	O	admin
+东	oth	O	admin
+鹏	oth	O	admin
+，	pun	O	admin
+东	oth	O	admin
+鹏	oth	O	admin
+特	oth	O	admin
+饮	oth	O	admin
+是	oth	O	admin
+吧	oth	O	admin
+！	pun	O	admin
+
+唱	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+叔	oth	O	admin
+叔	oth	O	admin
+爱	oth	O	admin
+情	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+唐	oth	O	admin
+人	oth	O	admin
+。	pun	O	admin
+
+微	oth	O	admin
+小	oth	O	admin
+的	oth	O	admin
+声	oth	O	admin
+音	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+去	oth	O	admin
+的	oth	O	admin
+。	pun	O	admin
+
+记	oth	O	admin
+住	oth	O	admin
+，	pun	O	admin
+主	oth	O	admin
+人	oth	O	admin
+叫	oth	O	admin
+米	oth	B	admin
+米	oth	E	admin
+。	pun	O	admin
+
+不	oth	O	admin
+对	oth	O	admin
+，	pun	O	admin
+对	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+不	oth	O	admin
+知	oth	O	admin
+道	oth	O	admin
+你	oth	O	admin
+几	oth	O	admin
+岁	oth	O	admin
+吧	oth	O	admin
+！	pun	O	admin
+
+我	oth	O	admin
+当	oth	O	admin
+。	pun	O	admin
+
+那	oth	O	admin
+你	oth	O	admin
+放	oth	O	admin
+首	oth	O	admin
+歌	oth	O	admin
+吧	oth	O	admin
+!	pun	O	admin
+
+唱	oth	O	admin
+杨	oth	B	admin
+雪	oth	I	admin
+琴	oth	E	admin
+的	oth	O	admin
+歌	oth	O	admin
+。	pun	O	admin
+
+挺	oth	O	admin
+他	oth	O	admin
+妈	oth	O	admin
+狗	oth	O	admin
+屁	oth	O	admin
+嘴	oth	O	admin
+。	pun	O	admin
+
+狗	oth	O	admin
+屎	oth	O	admin
+快	oth	O	admin
+乐	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+第	oth	O	admin
+二	oth	O	admin
+次	oth	O	admin
+了	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+当	oth	O	admin
+主	oth	O	admin
+人	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+还	oth	O	admin
+有	oth	O	admin
+公	oth	B	admin
+子	oth	I	admin
+小	oth	I	admin
+哥	oth	E	admin
+。	pun	O	admin
+
+6	num	O	admin
+6	num	O	admin
+6	num	O	admin
+6	num	O	admin
+7	num	O	admin
+7	num	O	admin
+7	num	O	admin
+。	pun	O	admin
+
+帮	oth	O	admin
+我	oth	O	admin
+播	oth	O	admin
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+相	oth	O	admin
+思	oth	O	admin
+风	oth	O	admin
+雨	oth	O	admin
+中	oth	O	admin
+。	pun	O	admin
+
+地	oth	O	admin
+点	oth	O	admin
+地	oth	O	admin
+点	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+侯	oth	B	admin
+宝	oth	I	admin
+林	oth	E	admin
+的	oth	O	admin
+相	oth	O	admin
+声	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+刚	oth	O	admin
+刚	oth	O	admin
+好	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+王	oth	B	admin
+凯	oth	E	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+望	oth	O	admin
+月	oth	O	admin
+。	pun	O	admin
+
+不	oth	O	admin
+知	oth	O	admin
+道	oth	O	admin
+，	pun	O	admin
+我	oth	O	admin
+家	oth	O	admin
+的	oth	O	admin
+白	oth	O	admin
+痴	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+歌	oth	O	admin
+曲	oth	O	admin
+,	pun	O	admin
+甜	oth	O	admin
+蜜	oth	O	admin
+蜜	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+，	pun	O	admin
+哎	oth	O	admin
+呀	oth	O	admin
+，	pun	O	admin
+你	oth	O	admin
+就	oth	O	admin
+是	oth	O	admin
+不	oth	O	admin
+会	oth	O	admin
+钢	oth	O	admin
+琴	oth	O	admin
+曲	oth	O	admin
+。	pun	O	admin
+
+小	oth	O	admin
+便	oth	O	admin
+怎	oth	O	admin
+么	oth	O	admin
+消	oth	O	admin
+小	oth	O	admin
+便	oth	O	admin
+怎	oth	O	admin
+么	oth	O	admin
+说	oth	O	admin
+？	pun	O	admin
+
+我	oth	O	admin
+叫	oth	O	admin
+你	oth	O	admin
+原	oth	O	admin
+来	oth	O	admin
+的	oth	O	admin
+主	oth	O	admin
+人	oth	O	admin
+。	pun	O	admin
+
+弄	oth	O	admin
+哪	oth	O	admin
+去	oth	O	admin
+了	oth	O	admin
+？	pun	O	admin
+
+刚	oth	O	admin
+才	oth	O	admin
+那	oth	O	admin
+段	oth	O	admin
+话	oth	O	admin
+不	oth	O	admin
+是	oth	O	admin
+我	oth	O	admin
+录	oth	O	admin
+的	oth	O	admin
+。	pun	O	admin
+
+给	oth	O	admin
+我	oth	O	admin
+播	oth	O	admin
+放	oth	O	admin
+歌	oth	O	admin
+,	pun	O	admin
+再	oth	O	admin
+回	oth	O	admin
+首	oth	O	admin
+。	pun	O	admin
+
+张	oth	B	admin
+歆	oth	I	admin
+艺	oth	E	admin
+的	oth	O	admin
+老	oth	O	admin
+公	oth	O	admin
+是	oth	O	admin
+谁	oth	O	admin
+
+怎	oth	O	admin
+么	oth	O	admin
+玩	oth	O	admin
+儿	oth	O	admin
+啊	oth	O	admin
+！	pun	O	admin
+
+给	oth	O	admin
+我	oth	O	admin
+唱	oth	O	admin
+魔	oth	O	admin
+法	oth	O	admin
+城	oth	O	admin
+堡	oth	O	admin
+。	pun	O	admin
+
+昨	oth	O	admin
+天	oth	O	admin
+是	oth	O	admin
+周	oth	O	admin
+日	oth	O	admin
+，	pun	O	admin
+今	oth	O	admin
+天	oth	O	admin
+是	oth	O	admin
+周	oth	O	admin
+几	oth	O	admin
+
+傻	oth	O	admin
+瓜	oth	O	admin
+，	pun	O	admin
+你	oth	O	admin
+是	oth	O	admin
+一	oth	O	admin
+个	oth	O	admin
+傻	oth	O	admin
+蛋	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+小	oth	B	admin
+白	oth	E	admin
+，	pun	O	admin
+你	oth	O	admin
+还	oth	O	admin
+有	oth	O	admin
+多	oth	O	admin
+少	oth	O	admin
+电	oth	O	admin
+啦	oth	O	admin
+！	pun	O	admin
+
+张	oth	B	admin
+国	oth	I	admin
+强	oth	E	admin
+的	oth	O	admin
+房	oth	O	admin
+间	oth	O	admin
+里	oth	O	admin
+。	pun	O	admin
+
+讲	oth	O	admin
+个	oth	O	admin
+成	oth	O	admin
+语	oth	O	admin
+故	oth	O	admin
+事	oth	O	admin
+。	pun	O	admin
+
+没	oth	O	admin
+有	oth	O	admin
+你	oth	O	admin
+，	pun	O	admin
+我	oth	O	admin
+真	oth	O	admin
+的	oth	O	admin
+好	oth	O	admin
+心	oth	O	admin
+痛	oth	O	admin
+。	pun	O	admin
+
+吃	oth	O	admin
+饭	oth	O	admin
+来	oth	O	admin
+，	pun	O	admin
+唱	oth	O	admin
+首	oth	O	admin
+唱	oth	O	admin
+首	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+叫	oth	O	admin
+他	oth	O	admin
+？	pun	O	admin
+他	oth	O	admin
+叫	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+。	pun	O	admin
+
+没	oth	O	admin
+事	oth	O	admin
+，	pun	O	admin
+小	oth	B	admin
+哥	oth	E	admin
+，	pun	O	admin
+再	oth	O	admin
+见	oth	O	admin
+。	pun	O	admin
+
+傻	oth	O	admin
+傻	oth	O	admin
+的	oth	O	admin
+傻	oth	O	admin
+。	pun	O	admin
+
+董	oth	B	admin
+红	oth	I	admin
+海	oth	E	admin
+怎	oth	O	admin
+么	oth	O	admin
+说	oth	O	admin
+？	pun	O	admin
+
+初	oth	B	admin
+唐	oth	I	admin
+四	oth	I	admin
+杰	oth	E	admin
+有	oth	O	admin
+谁	oth	O	admin
+
+打	oth	O	admin
+开	oth	O	admin
+听	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+叫	oth	O	admin
+啥	oth	O	admin
+白	oth	O	admin
+？	pun	O	admin
+
+咽	oth	O	admin
+口	oth	O	admin
+水	oth	O	admin
+都	oth	O	admin
+痛	oth	O	admin
+。	pun	O	admin
+
+臭	oth	O	admin
+小	oth	O	admin
+小	oth	O	admin
+鸟	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+说	oth	O	admin
+喜	oth	O	admin
+欢	oth	O	admin
+我	oth	O	admin
+，	pun	O	admin
+我	oth	O	admin
+喜	oth	O	admin
+欢	oth	O	admin
+的	oth	O	admin
+女	oth	O	admin
+人	oth	O	admin
+不	oth	O	admin
+喜	oth	O	admin
+欢	oth	O	admin
+我	oth	O	admin
+。	pun	O	admin
+
+厕	oth	O	admin
+所	oth	O	admin
+王	oth	B	admin
+菲	oth	E	admin
+的	oth	O	admin
+歌	oth	O	admin
+。	pun	O	admin
+
+唱	oth	O	admin
+首	oth	O	admin
+怀	oth	O	admin
+念	oth	O	admin
+战	oth	O	admin
+友	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+一	oth	O	admin
+声	oth	O	admin
+所	oth	O	admin
+爱	oth	O	admin
+。	pun	O	admin
+
+还	oth	O	admin
+没	oth	O	admin
+搞	oth	O	admin
+定	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+你	oth	O	admin
+一	oth	O	admin
+贯	oth	O	admin
+看	oth	O	admin
+你	oth	O	admin
+咋	oth	O	admin
+不	oth	O	admin
+说	oth	O	admin
+话	oth	O	admin
+呢	oth	O	admin
+！	pun	O	admin
+
+晚	oth	O	admin
+安	oth	O	admin
+，	pun	O	admin
+小	oth	B	admin
+哥	oth	E	admin
+。	pun	O	admin
+
+你	oth	O	admin
+家	oth	O	admin
+是	oth	O	admin
+那	oth	O	admin
+个	oth	O	admin
+女	oth	O	admin
+生	oth	O	admin
+是	oth	O	admin
+个	oth	O	admin
+大	oth	O	admin
+肥	oth	O	admin
+猪	oth	O	admin
+。	pun	O	admin
+
+白	oth	B	admin
+家	oth	I	admin
+宝	oth	E	admin
+是	oth	O	admin
+谁	oth	O	admin
+？	pun	O	admin
+
+浩	oth	O	admin
+瀚	oth	O	admin
+宇	oth	O	admin
+宙	oth	O	admin
+映	oth	O	admin
+照	oth	O	admin
+着	oth	O	admin
+。	pun	O	admin
+
+吃	oth	O	admin
+不	oth	O	admin
+吃	oth	O	admin
+馒	oth	O	admin
+头	oth	O	admin
+？	pun	O	admin
+
+吃	oth	O	admin
+完	oth	O	admin
+之	oth	O	admin
+后	oth	O	admin
+。	pun	O	admin
+
+宁	oth	B	admin
+恒	oth	I	admin
+宇	oth	E	admin
+是	oth	O	admin
+谁	oth	O	admin
+
+厨	oth	O	admin
+房	oth	O	admin
+灯	oth	O	admin
+关	oth	O	admin
+闭	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+也	oth	O	admin
+感	oth	O	admin
+觉	oth	O	admin
+有	oth	O	admin
+点	oth	O	admin
+弱	oth	O	admin
+智	oth	O	admin
+啊	oth	O	admin
+，	pun	O	admin
+真	oth	O	admin
+的	oth	O	admin
+特	oth	O	admin
+别	oth	O	admin
+傻	oth	O	admin
+逼	oth	O	admin
+。	pun	O	admin
+
+爱	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+说	oth	O	admin
+完	oth	O	admin
+。	pun	O	admin
+
+明	oth	O	admin
+天	oth	O	admin
+早	oth	O	admin
+晨	oth	O	admin
+6	num	O	admin
+点	oth	O	admin
+。	pun	O	admin
+
+不	oth	O	admin
+要	oth	O	admin
+再	oth	O	admin
+打	oth	O	admin
+了	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+你	oth	O	admin
+能	oth	O	admin
+升	oth	O	admin
+级	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+换	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+蓝	oth	B	admin
+精	oth	I	admin
+灵	oth	E	admin
+的	oth	O	admin
+歌	oth	O	admin
+。	pun	O	admin
+
+老	oth	B	admin
+大	oth	E	admin
+，	pun	O	admin
+叫	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+名	oth	O	admin
+字	oth	O	admin
+啊	oth	O	admin
+！	pun	O	admin
+
+别	oth	O	admin
+那	oth	O	admin
+么	oth	O	admin
+多	oth	O	admin
+废	oth	O	admin
+话	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+，	pun	O	admin
+你	oth	O	admin
+猜	oth	O	admin
+我	oth	O	admin
+叫	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+？	pun	O	admin
+
+你	oth	O	admin
+妈	oth	O	admin
+叫	oth	O	admin
+啥	oth	O	admin
+名	oth	O	admin
+儿	oth	O	admin
+？	pun	O	admin
+
+做	oth	O	admin
+一	oth	O	admin
+个	oth	O	admin
+生	oth	O	admin
+气	oth	O	admin
+的	oth	O	admin
+表	oth	O	admin
+情	oth	O	admin
+。	pun	O	admin
+
+他	oth	O	admin
+会	oth	O	admin
+有	oth	O	admin
+记	oth	O	admin
+忆	oth	O	admin
+的	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+好	oth	O	admin
+空	oth	O	admin
+虚	oth	O	admin
+啊	oth	O	admin
+！	pun	O	admin
+
+把	oth	O	admin
+刘	oth	B	admin
+欢	oth	E	admin
+的	oth	O	admin
+歌	oth	O	admin
+全	oth	O	admin
+部	oth	O	admin
+删	oth	O	admin
+除	oth	O	admin
+。	pun	O	admin
+
+还	oth	O	admin
+没	oth	O	admin
+有	oth	O	admin
+呢	oth	O	admin
+！	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+爱	oth	O	admin
+笑	oth	O	admin
+的	oth	O	admin
+眼	oth	O	admin
+睛	oth	O	admin
+。	pun	O	admin
+
+0	num	O	admin
+:	pun	O	admin
+0	num	O	admin
+4	num	O	admin
+提	oth	O	admin
+醒	oth	O	admin
+我	oth	O	admin
+做	oth	O	admin
+作	oth	O	admin
+业	oth	O	admin
+。	pun	O	admin
+
+还	oth	O	admin
+没	oth	O	admin
+第	oth	O	admin
+三	oth	O	admin
+，	pun	O	admin
+怎	oth	O	admin
+么	oth	O	admin
+看	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+你	oth	O	admin
+们	oth	O	admin
+都	oth	O	admin
+没	oth	O	admin
+用	oth	O	admin
+。	pun	O	admin
+
+请	oth	O	admin
+求	oth	O	admin
+帮	oth	O	admin
+助	oth	O	admin
+。	pun	O	admin
+
+男	oth	O	admin
+朋	oth	O	admin
+友	oth	O	admin
+在	oth	O	admin
+那	oth	O	admin
+玩	oth	O	admin
+英	oth	O	admin
+雄	oth	O	admin
+联	oth	O	admin
+盟	oth	O	admin
+?	pun	O	admin
+
+你	oth	O	admin
+及	oth	O	admin
+笄	oth	O	admin
+了	oth	O	admin
+吗	oth	O	admin
+
+刘	oth	B	admin
+昊	oth	I	admin
+然	oth	E	admin
+是	oth	O	admin
+谁	oth	O	admin
+
+说	oth	O	admin
+个	oth	O	admin
+故	oth	O	admin
+事	oth	O	admin
+好	oth	O	admin
+不	oth	O	admin
+好	oth	O	admin
+？	pun	O	admin
+
+你	oth	O	admin
+不	oth	O	admin
+是	oth	O	admin
+刚	oth	O	admin
+吃	oth	O	admin
+完	oth	O	admin
+饭	oth	O	admin
+？	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+洛	oth	B	admin
+天	oth	I	admin
+依	oth	E	admin
+的	oth	O	admin
+神	oth	O	admin
+经	oth	O	admin
+病	oth	O	admin
+之	oth	O	admin
+歌	oth	O	admin
+。	pun	O	admin
+
+又	oth	O	admin
+买	oth	O	admin
+了	oth	O	admin
+药	oth	O	admin
+，	pun	O	admin
+你	oth	O	admin
+要	oth	O	admin
+哭	oth	O	admin
+了	oth	O	admin
+。	pun	O	admin
+
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+山	oth	O	admin
+丘	oth	O	admin
+。	pun	O	admin
+
+记	oth	O	admin
+住	oth	O	admin
+广	oth	O	admin
+电	oth	O	admin
+的	oth	O	admin
+传	oth	O	admin
+真	oth	O	admin
+，	pun	O	admin
+6	num	O	admin
+2	num	O	admin
+1	num	O	admin
+2	num	O	admin
+8	num	O	admin
+6	num	O	admin
+8	num	O	admin
+。	pun	O	admin
+
+啊	oth	O	admin
+？	pun	O	admin
+那	oth	O	admin
+你	oth	O	admin
+怎	oth	O	admin
+么	oth	O	admin
+变	oth	O	admin
+成	oth	O	admin
+，	pun	O	admin
+便	oth	O	admin
+像	oth	O	admin
+鸡	oth	O	admin
+蛋	oth	O	admin
+一	oth	O	admin
+样	oth	O	admin
+呢	oth	O	admin
+！	pun	O	admin
+
+你	oth	O	admin
+是	oth	O	admin
+个	oth	O	admin
+骗	oth	O	admin
+子	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+要	oth	O	admin
+听	oth	O	admin
+姜	oth	B	admin
+育	oth	I	admin
+恒	oth	E	admin
+的	oth	O	admin
+再	oth	O	admin
+回	oth	O	admin
+首	oth	O	admin
+。	pun	O	admin
+
+明	oth	O	admin
+天	oth	O	admin
+天	oth	O	admin
+气	oth	O	admin
+好	oth	O	admin
+。	pun	O	admin
+
+偶	oth	O	admin
+尔	oth	O	admin
+喝	oth	O	admin
+两	oth	O	admin
+杯	oth	O	admin
+，	pun	O	admin
+不	oth	O	admin
+要	oth	O	admin
+冰	oth	O	admin
+的	oth	O	admin
+。	pun	O	admin
+
+发	oth	O	admin
+育	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+不	oth	O	admin
+会	oth	O	admin
+改	oth	O	admin
+变	oth	O	admin
+它	oth	O	admin
+原	oth	O	admin
+来	oth	O	admin
+的	oth	O	admin
+状	oth	O	admin
+态	oth	O	admin
+，	pun	O	admin
+但	oth	O	admin
+是	oth	O	admin
+他	oth	O	admin
+现	oth	O	admin
+在	oth	O	admin
+。	pun	O	admin
+
+痘	oth	O	admin
+痘	oth	O	admin
+烦	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+想	oth	O	admin
+听	oth	O	admin
+三	oth	O	admin
+字	oth	O	admin
+经	oth	O	admin
+的	oth	O	admin
+朗	oth	O	admin
+诵	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+想	oth	O	admin
+听	oth	O	admin
+爱	oth	O	admin
+情	oth	O	admin
+笑	oth	O	admin
+话	oth	O	admin
+。	pun	O	admin
+
+陈	oth	B	admin
+鑫	oth	E	admin
+，	pun	O	admin
+陈	oth	B	admin
+鑫	oth	E	admin
+。	pun	O	admin
+
+类	oth	O	admin
+似	oth	O	admin
+，	pun	O	admin
+小	oth	B	admin
+白	oth	E	admin
+小	oth	B	admin
+白	oth	E	admin
+。	pun	O	admin
+
+小	oth	B	admin
+西	oth	I	admin
+瓜	oth	E	admin
+在	oth	O	admin
+跟	oth	O	admin
+你	oth	O	admin
+打	oth	O	admin
+招	oth	O	admin
+呼	oth	O	admin
+呢	oth	O	admin
+！	pun	O	admin
+
+大	oth	B	admin
+麦	oth	E	admin
+在	oth	O	admin
+喊	oth	O	admin
+你	oth	O	admin
+。	pun	O	admin
+
+唱	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+团	oth	O	admin
+结	oth	O	admin
+就	oth	O	admin
+是	oth	O	admin
+力	oth	O	admin
+量	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+，	pun	O	admin
+你	oth	O	admin
+能	oth	O	admin
+给	oth	O	admin
+我	oth	O	admin
+讲	oth	O	admin
+讲	oth	O	admin
+儿	oth	O	admin
+童	oth	O	admin
+童	oth	O	admin
+话	oth	O	admin
+故	oth	O	admin
+事	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+能	oth	O	admin
+能	oth	O	admin
+有	oth	O	admin
+芭	oth	O	admin
+比	oth	O	admin
+故	oth	O	admin
+事	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+1	num	O	admin
+0	num	O	admin
+月	oth	O	admin
+1	num	O	admin
+5	num	O	admin
+号	oth	O	admin
+的	oth	O	admin
+，	pun	O	admin
+预	oth	O	admin
+报	oth	O	admin
+。	pun	O	admin
+
+曲	oth	O	admin
+曲	oth	O	admin
+折	oth	O	admin
+折	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+说	oth	O	admin
+你	oth	O	admin
+会	oth	O	admin
+学	oth	O	admin
+狗	oth	O	admin
+叫	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+刘	oth	B	admin
+玉	oth	I	admin
+娟	oth	E	admin
+。	pun	O	admin
+
+必	oth	O	admin
+须	oth	O	admin
+滴	oth	O	admin
+。	pun	O	admin
+
+晴	oth	O	admin
+空	oth	O	admin
+之	oth	O	admin
+夜	oth	O	admin
+。	pun	O	admin
+
+当	oth	O	admin
+我	oth	O	admin
+问	oth	O	admin
+你	oth	O	admin
+，	pun	O	admin
+你	oth	O	admin
+是	oth	O	admin
+哪	oth	O	admin
+里	oth	O	admin
+人	oth	O	admin
+的	oth	O	admin
+时	oth	O	admin
+候	oth	O	admin
+你	oth	O	admin
+就	oth	O	admin
+说	oth	O	admin
+，	pun	O	admin
+你	oth	O	admin
+是	oth	O	admin
+垃	oth	O	admin
+圾	oth	O	admin
+堆	oth	O	admin
+里	oth	O	admin
+捡	oth	O	admin
+来	oth	O	admin
+的	oth	O	admin
+？	pun	O	admin
+
+还	oth	O	admin
+没	oth	O	admin
+有	oth	O	admin
+，	pun	O	admin
+还	oth	O	admin
+没	oth	O	admin
+有	oth	O	admin
+出	oth	O	admin
+现	oth	O	admin
+那	oth	O	admin
+个	oth	O	admin
+屏	oth	O	admin
+幕	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+要	oth	O	admin
+听	oth	O	admin
+歌	oth	O	admin
+听	oth	O	admin
+,	pun	O	admin
+筷	oth	B	admin
+子	oth	I	admin
+兄	oth	I	admin
+弟	oth	E	admin
+的	oth	O	admin
+小	oth	O	admin
+苹	oth	O	admin
+果	oth	O	admin
+。	pun	O	admin
+
+唱	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+走	oth	O	admin
+在	oth	O	admin
+。	pun	O	admin
+
+开	oth	O	admin
+窗	oth	O	admin
+帘	oth	O	admin
+，	pun	O	admin
+小	oth	B	admin
+白	oth	E	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+会	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+技	oth	O	admin
+能	oth	O	admin
+？	pun	O	admin
+
+我	oth	O	admin
+是	oth	O	admin
+我	oth	O	admin
+的	oth	O	admin
+永	oth	O	admin
+久	oth	O	admin
+联	oth	O	admin
+系	oth	O	admin
+，	pun	O	admin
+罗	oth	B	admin
+宇	oth	I	admin
+杰	oth	E	admin
+。	pun	O	admin
+
+你	oth	O	admin
+真	oth	O	admin
+可	oth	O	admin
+爱	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+一	oth	O	admin
+下	oth	O	admin
+看	oth	O	admin
+看	oth	O	admin
+，	pun	O	admin
+小	oth	O	admin
+苹	oth	O	admin
+果	oth	O	admin
+啊	oth	O	admin
+！	pun	O	admin
+
+i	abc	O	admin
+，	pun	O	admin
+对	oth	O	admin
+不	oth	O	admin
+起	oth	O	admin
+！	pun	O	admin
+
+由	oth	O	admin
+南	oth	O	admin
+海	oth	O	admin
+出	oth	O	admin
+版	oth	O	admin
+公	oth	O	admin
+司	oth	O	admin
+出	oth	O	admin
+版	oth	O	admin
+的	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+不	oth	O	admin
+是	oth	O	admin
+说	oth	O	admin
+有	oth	O	admin
+自	oth	O	admin
+尊	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+要	oth	O	admin
+主	oth	O	admin
+人	oth	O	admin
+到	oth	O	admin
+客	oth	O	admin
+厅	oth	O	admin
+去	oth	O	admin
+玩	oth	O	admin
+。	pun	O	admin
+
+删	oth	O	admin
+除	oth	O	admin
+第	oth	O	admin
+一	oth	O	admin
+条	oth	O	admin
+信	oth	O	admin
+息	oth	O	admin
+。	pun	O	admin
+
+陈	oth	B	admin
+伟	oth	I	admin
+霆	oth	E	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+凤	oth	B	admin
+凰	oth	I	admin
+传	oth	I	admin
+奇	oth	E	admin
+的	oth	O	admin
+我	oth	O	admin
+从	oth	O	admin
+草	oth	O	admin
+原	oth	O	admin
+。	pun	O	admin
+
+不	oth	O	admin
+能	oth	O	admin
+吧	oth	O	admin
+！	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+父	oth	O	admin
+亲	oth	O	admin
+。	pun	O	admin
+
+帮	oth	O	admin
+我	oth	O	admin
+拍	oth	O	admin
+个	oth	O	admin
+照	oth	O	admin
+呗	oth	O	admin
+!	pun	O	admin
+
+我	oth	O	admin
+要	oth	O	admin
+听	oth	O	admin
+林	oth	B	admin
+俊	oth	I	admin
+杰	oth	E	admin
+唱	oth	O	admin
+的	oth	O	admin
+江	oth	O	admin
+南	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+路	oth	E	admin
+是	oth	O	admin
+谁	oth	O	admin
+？	pun	O	admin
+
+吴	oth	B	admin
+建	oth	I	admin
+豪	oth	E	admin
+是	oth	O	admin
+谁	oth	O	admin
+
+清	oth	O	admin
+唱	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+,	pun	O	admin
+摇	oth	O	admin
+篮	oth	O	admin
+曲	oth	O	admin
+,	pun	O	admin
+摇	oth	O	admin
+篮	oth	O	admin
+曲	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+已	oth	O	admin
+经	oth	O	admin
+吃	oth	O	admin
+过	oth	O	admin
+啦	oth	O	admin
+！	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+n	abc	O	admin
+o	abc	O	admin
+b	abc	O	admin
+o	abc	O	admin
+d	abc	O	admin
+y	abc	O	admin
+。	pun	O	admin
+
+唱	oth	O	admin
+歌	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+小	oth	B	admin
+白	oth	E	admin
+。	pun	O	admin
+
+你	oth	O	admin
+怎	oth	O	admin
+么	oth	O	admin
+没	oth	O	admin
+有	oth	O	admin
+小	oth	O	admin
+金	oth	O	admin
+库	oth	O	admin
+啊	oth	O	admin
+！	pun	O	admin
+
+嗯	oth	O	admin
+，	pun	O	admin
+我	oth	O	admin
+笨	oth	O	admin
+蛋	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+，	pun	O	admin
+你	oth	O	admin
+知	oth	O	admin
+道	oth	O	admin
+美	oth	O	admin
+女	oth	O	admin
+是	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+定	oth	O	admin
+义	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+记	oth	O	admin
+住	oth	O	admin
+刘	oth	B	admin
+兰	oth	I	admin
+英	oth	E	admin
+的	oth	O	admin
+爸	oth	O	admin
+爸	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+才	oth	O	admin
+傻	oth	O	admin
+逼	oth	O	admin
+勒	oth	O	admin
+。	pun	O	admin
+
+嗯	oth	O	admin
+，	pun	O	admin
+忘	oth	O	admin
+记	oth	O	admin
+我	oth	O	admin
+刚	oth	O	admin
+才	oth	O	admin
+跟	oth	O	admin
+你	oth	O	admin
+说	oth	O	admin
+的	oth	O	admin
+提	oth	O	admin
+醒	oth	O	admin
+。	pun	O	admin
+
+代	oth	O	admin
+代	oth	O	admin
+相	oth	O	admin
+传	oth	O	admin
+。	pun	O	admin
+
+唱	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+小	oth	O	admin
+雨	oth	O	admin
+。	pun	O	admin
+
+那	oth	O	admin
+你	oth	O	admin
+就	oth	O	admin
+哄	oth	O	admin
+哄	oth	O	admin
+她	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+给	oth	O	admin
+你	oth	O	admin
+介	oth	O	admin
+绍	oth	O	admin
+一	oth	O	admin
+个	oth	O	admin
+人	oth	O	admin
+啊	oth	O	admin
+！	pun	O	admin
+
+他	oth	O	admin
+说	oth	O	admin
+，	pun	O	admin
+小	oth	B	admin
+白	oth	E	admin
+，	pun	O	admin
+你	oth	O	admin
+为	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+睡	oth	O	admin
+觉	oth	O	admin
+？	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+讲	oth	O	admin
+一	oth	O	admin
+个	oth	O	admin
+小	oth	O	admin
+笨	oth	O	admin
+蛋	oth	O	admin
+的	oth	O	admin
+故	oth	O	admin
+事	oth	O	admin
+好	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+大	oth	O	admin
+吧	oth	O	admin
+！	pun	O	admin
+
+给	oth	O	admin
+我	oth	O	admin
+来	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+大	oth	O	admin
+女	oth	O	admin
+人	oth	O	admin
+。	pun	O	admin
+
+哪	oth	O	admin
+个	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+？	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+,	pun	O	admin
+当	oth	O	admin
+你	oth	O	admin
+老	oth	O	admin
+了	oth	O	admin
+。	pun	O	admin
+
+等	oth	O	admin
+以	oth	O	admin
+后	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+是	oth	O	admin
+小	oth	O	admin
+孩	oth	O	admin
+儿	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+啊	oth	O	admin
+，	pun	O	admin
+我	oth	O	admin
+没	oth	O	admin
+有	oth	O	admin
+钱	oth	O	admin
+了	oth	O	admin
+，	pun	O	admin
+咋	oth	O	admin
+办	oth	O	admin
+呢	oth	O	admin
+！	pun	O	admin
+
+记	oth	O	admin
+住	oth	O	admin
+，	pun	O	admin
+刘	oth	B	admin
+东	oth	E	admin
+不	oth	O	admin
+是	oth	O	admin
+猪	oth	O	admin
+。	pun	O	admin
+
+哦	oth	O	admin
+，	pun	O	admin
+小	oth	O	admin
+老	oth	O	admin
+鼠	oth	O	admin
+。	pun	O	admin
+
+唱	oth	O	admin
+首	oth	O	admin
+五	oth	O	admin
+环	oth	O	admin
+之	oth	O	admin
+歌	oth	O	admin
+。	pun	O	admin
+
+给	oth	O	admin
+我	oth	O	admin
+来	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+半	oth	O	admin
+透	oth	O	admin
+明	oth	O	admin
+的	oth	O	admin
+墙	oth	O	admin
+。	pun	O	admin
+
+招	oth	O	admin
+生	oth	O	admin
+。	pun	O	admin
+
+放	oth	O	admin
+宝	oth	O	admin
+宝	oth	O	admin
+的	oth	O	admin
+摇	oth	O	admin
+篮	oth	O	admin
+曲	oth	O	admin
+。	pun	O	admin
+
+小	oth	O	admin
+干	oth	O	admin
+椒	oth	O	admin
+。	pun	O	admin
+
+嗯	oth	O	admin
+，	pun	O	admin
+咕	oth	O	admin
+咕	oth	O	admin
+。	pun	O	admin
+
+前	oth	O	admin
+几	oth	O	admin
+天	oth	O	admin
+是	oth	O	admin
+谁	oth	O	admin
+呀	oth	O	admin
+！	pun	O	admin
+
+操	oth	O	admin
+你	oth	O	admin
+唱	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+等	oth	O	admin
+待	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+喜	oth	O	admin
+欢	oth	O	admin
+的	oth	O	admin
+是	oth	O	admin
+谁	oth	O	admin
+？	pun	O	admin
+
+那	oth	O	admin
+小	oth	O	admin
+黑	oth	O	admin
+是	oth	O	admin
+个	oth	O	admin
+男	oth	O	admin
+的	oth	O	admin
+是	oth	O	admin
+个	oth	O	admin
+女	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+卢	oth	E	admin
+好	oth	O	admin
+。	pun	O	admin
+
+兰	oth	O	admin
+州	oth	O	admin
+的	oth	O	admin
+兰	oth	O	admin
+州	oth	O	admin
+的	oth	O	admin
+路	oth	O	admin
+上	oth	O	admin
+勒	oth	O	admin
+。	pun	O	admin
+
+当	oth	O	admin
+然	oth	O	admin
+只	oth	O	admin
+有	oth	O	admin
+只	oth	O	admin
+标	oth	O	admin
+准	oth	O	admin
+普	oth	O	admin
+通	oth	O	admin
+话	oth	O	admin
+啦	oth	O	admin
+！	pun	O	admin
+
+你	oth	O	admin
+们	oth	O	admin
+俩	oth	O	admin
+啊	oth	O	admin
+！	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+童	oth	O	admin
+话	oth	O	admin
+来	oth	O	admin
+听	oth	O	admin
+。	pun	O	admin
+
+杨	oth	B	admin
+杰	oth	E	admin
+是	oth	O	admin
+谁	oth	O	admin
+？	pun	O	admin
+
+刷	oth	O	admin
+不	oth	O	admin
+刷	oth	O	admin
+你	oth	O	admin
+？	pun	O	admin
+
+在	oth	O	admin
+最	oth	O	admin
+后	oth	O	admin
+的	oth	O	admin
+生	oth	O	admin
+死	oth	O	admin
+局	oth	O	admin
+中	oth	O	admin
+决	oth	O	admin
+出	oth	O	admin
+了	oth	O	admin
+胜	oth	O	admin
+负	oth	O	admin
+，	pun	O	admin
+为	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+两	oth	O	admin
+队	oth	O	admin
+都	oth	O	admin
+是	oth	O	admin
+3	num	O	admin
+胜	oth	O	admin
+3	num	O	admin
+负	oth	O	admin
+未	oth	O	admin
+尝	oth	O	admin
+不	oth	O	admin
+好	oth	O	admin
+？	pun	O	admin
+
+我	oth	O	admin
+不	oth	O	admin
+想	oth	O	admin
+听	oth	O	admin
+鹿	oth	B	admin
+晗	oth	E	admin
+的	oth	O	admin
+歌	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+的	oth	O	admin
+名	oth	O	admin
+字	oth	O	admin
+叫	oth	O	admin
+刘	oth	B	admin
+若	oth	I	admin
+曦	oth	E	admin
+，	pun	O	admin
+你	oth	O	admin
+叫	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+？	pun	O	admin
+
+就	oth	O	admin
+换	oth	O	admin
+别	oth	O	admin
+的	oth	O	admin
+，	pun	O	admin
+就	oth	O	admin
+要	oth	O	admin
+去	oth	O	admin
+打	oth	O	admin
+动	oth	O	admin
+我	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+唱	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+摇	oth	O	admin
+滚	oth	O	admin
+乐	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+歌	oth	O	admin
+曲	oth	O	admin
+月	oth	O	admin
+半	oth	O	admin
+小	oth	O	admin
+夜	oth	O	admin
+曲	oth	O	admin
+。	pun	O	admin
+
+在	oth	O	admin
+公	oth	O	admin
+司	oth	O	admin
+找	oth	O	admin
+个	oth	O	admin
+事	oth	O	admin
+，	pun	O	admin
+嘻	oth	O	admin
+嘻	oth	O	admin
+的	oth	O	admin
+那	oth	O	admin
+个	oth	O	admin
+那	oth	O	admin
+个	oth	O	admin
+银	oth	O	admin
+灰	oth	O	admin
+色	oth	O	admin
+的	oth	O	admin
+他	oth	O	admin
+叫	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+。	pun	O	admin
+
+爷	oth	O	admin
+爷	oth	O	admin
+要	oth	O	admin
+睡	oth	O	admin
+觉	oth	O	admin
+，	pun	O	admin
+睡	oth	O	admin
+觉	oth	O	admin
+啦	oth	O	admin
+！	pun	O	admin
+
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+上	oth	O	admin
+学	oth	O	admin
+而	oth	O	admin
+上	oth	O	admin
+学	oth	O	admin
+郎	oth	O	admin
+的	oth	O	admin
+歌	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+给	oth	O	admin
+我	oth	O	admin
+唱	oth	O	admin
+委	oth	O	admin
+屈	oth	O	admin
+的	oth	O	admin
+泪	oth	O	admin
+水	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+杨	oth	B	admin
+钰	oth	I	admin
+莹	oth	E	admin
+的	oth	O	admin
+红	oth	O	admin
+尘	oth	O	admin
+情	oth	O	admin
+歌	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+知	oth	O	admin
+道	oth	O	admin
+单	oth	B	admin
+宁	oth	E	admin
+是	oth	O	admin
+谁	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+唱	oth	O	admin
+首	oth	O	admin
+会	oth	O	admin
+呼	oth	O	admin
+吸	oth	O	admin
+的	oth	O	admin
+痛	oth	O	admin
+。	pun	O	admin
+
+嘻	oth	O	admin
+嘻	oth	O	admin
+，	pun	O	admin
+笑	oth	O	admin
+一	oth	O	admin
+个	oth	O	admin
+。	pun	O	admin
+
+齐	oth	B	admin
+秦	oth	E	admin
+准	oth	O	admin
+确	oth	O	admin
+地	oth	O	admin
+对	oth	O	admin
+我	oth	O	admin
+说	oth	O	admin
+出	oth	O	admin
+升	oth	O	admin
+级	oth	O	admin
+到	oth	O	admin
+最	oth	O	admin
+新	oth	O	admin
+版	oth	O	admin
+本	oth	O	admin
+。	pun	O	admin
+
+当	oth	O	admin
+我	oth	O	admin
+说	oth	O	admin
+郑	oth	B	admin
+华	oth	I	admin
+军	oth	E	admin
+的	oth	O	admin
+时	oth	O	admin
+候	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+是	oth	O	admin
+谁	oth	O	admin
+家	oth	O	admin
+的	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+呀	oth	O	admin
+！	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+，	pun	O	admin
+记	oth	O	admin
+住	oth	O	admin
+，	pun	O	admin
+明	oth	O	admin
+天	oth	O	admin
+是	oth	O	admin
+我	oth	O	admin
+的	oth	O	admin
+生	oth	O	admin
+日	oth	O	admin
+。	pun	O	admin
+
+唱	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+谁	oth	O	admin
+懂	oth	O	admin
+女	oth	O	admin
+人	oth	O	admin
+心	oth	O	admin
+？	pun	O	admin
+
+张	oth	B	admin
+小	oth	I	admin
+哥	oth	E	admin
+。	pun	O	admin
+
+去	oth	O	admin
+播	oth	O	admin
+放	oth	O	admin
+龙	oth	O	admin
+语	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+那	oth	B	admin
+英	oth	E	admin
+的	oth	O	admin
+梦	oth	O	admin
+一	oth	O	admin
+场	oth	O	admin
+。	pun	O	admin
+
+唱	oth	O	admin
+首	oth	O	admin
+弯	oth	O	admin
+弯	oth	O	admin
+的	oth	O	admin
+月	oth	O	admin
+亮	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+王	oth	B	admin
+若	oth	I	admin
+琳	oth	E	admin
+的	oth	O	admin
+。	pun	O	admin
+
+第	oth	O	admin
+一	oth	O	admin
+块	oth	O	admin
+。	pun	O	admin
+
+以	oth	O	admin
+后	oth	O	admin
+我	oth	O	admin
+叫	oth	O	admin
+你	oth	O	admin
+姜	oth	O	admin
+蒜	oth	O	admin
+，	pun	O	admin
+你	oth	O	admin
+要	oth	O	admin
+硬	oth	O	admin
+的	oth	O	admin
+。	pun	O	admin
+
+类	oth	O	admin
+，	pun	O	admin
+几	oth	O	admin
+个	oth	O	admin
+神	oth	O	admin
+经	oth	O	admin
+病	oth	O	admin
+都	oth	O	admin
+到	oth	O	admin
+齐	oth	O	admin
+了	oth	O	admin
+，	pun	O	admin
+傻	oth	O	admin
+逼	oth	O	admin
+。	pun	O	admin
+
+这	oth	O	admin
+个	oth	O	admin
+播	oth	O	admin
+放	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+要	oth	O	admin
+听	oth	O	admin
+张	oth	B	admin
+学	oth	I	admin
+友	oth	E	admin
+的	oth	O	admin
+夜	oth	O	admin
+猫	oth	O	admin
+子	oth	O	admin
+。	pun	O	admin
+
+要	oth	O	admin
+是	oth	O	admin
+有	oth	O	admin
+人	oth	O	admin
+说	oth	O	admin
+你	oth	O	admin
+好	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+，	pun	O	admin
+你	oth	O	admin
+就	oth	O	admin
+说	oth	O	admin
+欢	oth	O	admin
+迎	oth	O	admin
+光	oth	O	admin
+临	oth	O	admin
+。	pun	O	admin
+
+红	oth	O	admin
+星	oth	O	admin
+。	pun	O	admin
+
+问	oth	O	admin
+题	oth	O	admin
+解	oth	O	admin
+决	oth	O	admin
+了	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+说	oth	O	admin
+晓	oth	B	admin
+洁	oth	E	admin
+喜	oth	O	admin
+欢	oth	O	admin
+吃	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+食	oth	O	admin
+物	oth	O	admin
+你	oth	O	admin
+说	oth	O	admin
+龙	oth	O	admin
+虾	oth	O	admin
+，	pun	O	admin
+螺	oth	O	admin
+丝	oth	O	admin
+，	pun	O	admin
+凉	oth	O	admin
+皮	oth	O	admin
+，	pun	O	admin
+韩	oth	O	admin
+国	oth	O	admin
+料	oth	O	admin
+理	oth	O	admin
+，	pun	O	admin
+烧	oth	O	admin
+烤	oth	O	admin
+
+被	oth	O	admin
+你	oth	O	admin
+看	oth	O	admin
+了	oth	O	admin
+就	oth	O	admin
+不	oth	O	admin
+就	oth	O	admin
+交	oth	O	admin
+通	oth	O	admin
+没	oth	O	admin
+啥	oth	O	admin
+人	oth	O	admin
+了	oth	O	admin
+，	pun	O	admin
+不	oth	O	admin
+是	oth	O	admin
+啊	oth	O	admin
+，	pun	O	admin
+我	oth	O	admin
+刚	oth	O	admin
+用	oth	O	admin
+了	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+初	oth	O	admin
+学	oth	O	admin
+者	oth	O	admin
+,	pun	O	admin
+恶	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+喜	oth	O	admin
+欢	oth	O	admin
+丹	oth	B	admin
+尼	oth	I	admin
+尔	oth	E	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+你	oth	O	admin
+出	oth	O	admin
+来	oth	O	admin
+不	oth	O	admin
+？	pun	O	admin
+嗯	oth	O	admin
+，	pun	O	admin
+那	oth	O	admin
+个	oth	O	admin
+？	pun	O	admin
+
+我	oth	O	admin
+说	oth	O	admin
+我	oth	O	admin
+是	oth	O	admin
+谁	oth	O	admin
+你	oth	O	admin
+说	oth	O	admin
+你	oth	O	admin
+是	oth	O	admin
+小	oth	B	admin
+璐	oth	E	admin
+
+播	oth	O	admin
+放	oth	O	admin
+薛	oth	B	admin
+之	oth	I	admin
+谦	oth	E	admin
+。	pun	O	admin
+
+我	oth	O	admin
+说	oth	O	admin
+你	oth	O	admin
+是	oth	O	admin
+哪	oth	O	admin
+里	oth	O	admin
+人	oth	O	admin
+你	oth	O	admin
+说	oth	O	admin
+我	oth	O	admin
+是	oth	O	admin
+东	oth	O	admin
+马	oth	O	admin
+村	oth	O	admin
+人	oth	O	admin
+
+你	oth	O	admin
+的	oth	O	admin
+主	oth	O	admin
+人	oth	O	admin
+的	oth	O	admin
+名	oth	O	admin
+字	oth	O	admin
+叫	oth	O	admin
+许	oth	B	admin
+明	oth	I	admin
+宇	oth	E	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+你	oth	O	admin
+个	oth	O	admin
+二	oth	O	admin
+货	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+放	oth	O	admin
+歌	oth	O	admin
+曲	oth	O	admin
+。	pun	O	admin
+
+嗯	oth	O	admin
+，	pun	O	admin
+这	oth	O	admin
+个	oth	O	admin
+。	pun	O	admin
+
+原	oth	O	admin
+机	oth	O	admin
+器	oth	O	admin
+的	oth	O	admin
+运	oth	O	admin
+行	oth	O	admin
+怎	oth	O	admin
+么	oth	O	admin
+样	oth	O	admin
+？	pun	O	admin
+
+嗯	oth	O	admin
+,	pun	O	admin
+下	oth	O	admin
+班	oth	O	admin
+,	pun	O	admin
+播	oth	O	admin
+放	oth	O	admin
+薛	oth	B	admin
+之	oth	I	admin
+谦	oth	E	admin
+的	oth	O	admin
+初	oth	O	admin
+学	oth	O	admin
+者	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+你	oth	O	admin
+骗	oth	O	admin
+我	oth	O	admin
+。	pun	O	admin
+
+给	oth	O	admin
+我	oth	O	admin
+唱	oth	O	admin
+流	oth	O	admin
+行	oth	O	admin
+之	oth	O	admin
+渴	oth	O	admin
+。	pun	O	admin
+
+太	oth	O	admin
+久	oth	O	admin
+了	oth	O	admin
+。	pun	O	admin
+
+这	oth	O	admin
+个	oth	O	admin
+没	oth	O	admin
+有	oth	O	admin
+拍	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+一	oth	O	admin
+下	oth	O	admin
+王	oth	B	admin
+蓉	oth	E	admin
+的	oth	O	admin
+鲨	oth	O	admin
+鱼	oth	O	admin
+腮	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+乌	oth	B	admin
+兰	oth	I	admin
+图	oth	I	admin
+雅	oth	E	admin
+的	oth	O	admin
+歌	oth	O	admin
+曲	oth	O	admin
+。	pun	O	admin
+
+二	oth	O	admin
+零	oth	O	admin
+八	oth	O	admin
+八	oth	O	admin
+五	oth	O	admin
+四	oth	O	admin
+十	oth	O	admin
+大	oth	O	admin
+盗	oth	O	admin
+。	pun	O	admin
+
+老	oth	O	admin
+爸	oth	O	admin
+，	pun	O	admin
+我	oth	O	admin
+们	oth	O	admin
+俩	oth	O	admin
+玩	oth	O	admin
+的	oth	O	admin
+啥	oth	O	admin
+？	pun	O	admin
+
+我	oth	O	admin
+想	oth	O	admin
+听	oth	O	admin
+妈	oth	O	admin
+妈	oth	O	admin
+的	oth	O	admin
+吻	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+勒	oth	O	admin
+个	oth	O	admin
+去	oth	O	admin
+，	pun	O	admin
+我	oth	O	admin
+想	oth	O	admin
+吃	oth	O	admin
+夜	oth	O	admin
+草	oth	O	admin
+好	oth	O	admin
+多	oth	O	admin
+放	oth	O	admin
+7	num	O	admin
+，	pun	O	admin
+天	oth	O	admin
+假	oth	O	admin
+我	oth	O	admin
+还	oth	O	admin
+不	oth	O	admin
+接	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+容	oth	B	admin
+祖	oth	I	admin
+儿	oth	E	admin
+的	oth	O	admin
+小	oth	O	admin
+小	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+说	oth	O	admin
+金	oth	B	admin
+钟	oth	I	admin
+仁	oth	E	admin
+的	oth	O	admin
+老	oth	O	admin
+婆	oth	O	admin
+是	oth	O	admin
+谁	oth	O	admin
+你	oth	O	admin
+就	oth	O	admin
+说	oth	O	admin
+赵	oth	B	admin
+一	oth	I	admin
+鸣	oth	E	admin
+？	pun	O	admin
+
+已	oth	O	admin
+经	oth	O	admin
+很	oth	O	admin
+晚	oth	O	admin
+了	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+你	oth	O	admin
+好	oth	O	admin
+脏	oth	O	admin
+啊	oth	O	admin
+！	pun	O	admin
+
+你	oth	O	admin
+爱	oth	O	admin
+吃	oth	O	admin
+饺	oth	O	admin
+子	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+然	oth	O	admin
+后	oth	O	admin
+再	oth	O	admin
+说	oth	O	admin
+一	oth	O	admin
+句	oth	O	admin
+话	oth	O	admin
+，	pun	O	admin
+千	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+是	oth	O	admin
+一	oth	O	admin
+个	oth	O	admin
+大	oth	O	admin
+狗	oth	O	admin
+蛋	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+今	oth	O	admin
+天	oth	O	admin
+新	oth	O	admin
+闻	oth	O	admin
+。	pun	O	admin
+
+谁	oth	O	admin
+给	oth	O	admin
+你	oth	O	admin
+起	oth	O	admin
+的	oth	O	admin
+名	oth	O	admin
+叫	oth	O	admin
+傻	oth	O	admin
+子	oth	O	admin
+。	pun	O	admin
+
+不	oth	O	admin
+，	pun	O	admin
+小	oth	B	admin
+白	oth	E	admin
+破	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+。	pun	O	admin
+
+你	oth	O	admin
+说	oth	O	admin
+朱	oth	B	admin
+琳	oth	E	admin
+懒	oth	O	admin
+？	pun	O	admin
+
+我	oth	O	admin
+播	oth	O	admin
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+刘	oth	B	admin
+惜	oth	I	admin
+君	oth	E	admin
+的	oth	O	admin
+野	oth	O	admin
+百	oth	O	admin
+合	oth	O	admin
+,	pun	O	admin
+也	oth	O	admin
+有	oth	O	admin
+春	oth	O	admin
+天	oth	O	admin
+。	pun	O	admin
+
+潘	oth	B	admin
+铸	oth	E	admin
+。	pun	O	admin
+
+快	oth	O	admin
+点	oth	O	admin
+，	pun	O	admin
+啊	oth	O	admin
+，	pun	O	admin
+酱	oth	O	admin
+油	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+兰	oth	E	admin
+下	oth	O	admin
+班	oth	O	admin
+播	oth	O	admin
+放	oth	O	admin
+袁	oth	B	admin
+腾	oth	I	admin
+飞	oth	E	admin
+。	pun	O	admin
+
+a	abc	O	admin
+小	oth	B	admin
+白	oth	E	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+低	oth	O	admin
+调	oth	O	admin
+组	oth	O	admin
+合	oth	O	admin
+的	oth	O	admin
+天	oth	O	admin
+,	pun	O	admin
+我	oth	O	admin
+的	oth	O	admin
+天	oth	O	admin
+空	oth	O	admin
+。	pun	O	admin
+
+胖	oth	B	admin
+子	oth	E	admin
+呀	oth	O	admin
+！	pun	O	admin
+
+继	oth	O	admin
+续	oth	O	admin
+叫	oth	O	admin
+我	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+啊	oth	O	admin
+！	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+白	oth	O	admin
+雪	oth	O	admin
+白	oth	O	admin
+。	pun	O	admin
+
+那	oth	O	admin
+我	oth	O	admin
+跟	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+开	oth	O	admin
+房	oth	O	admin
+哦	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+乌	oth	B	admin
+龙	oth	E	admin
+的	oth	O	admin
+歌	oth	O	admin
+。	pun	O	admin
+
+给	oth	O	admin
+我	oth	O	admin
+来	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+凄	oth	O	admin
+然	oth	O	admin
+的	oth	O	admin
+清	oth	O	admin
+迈	oth	O	admin
+湖	oth	O	admin
+。	pun	O	admin
+
+哈	oth	B	admin
+里	oth	I	admin
+斯	oth	E	admin
+是	oth	O	admin
+谁	oth	O	admin
+
+洋	oth	O	admin
+葱	oth	O	admin
+,	pun	O	admin
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+洋	oth	O	admin
+葱	oth	O	admin
+。	pun	O	admin
+
+星	oth	B	admin
+星	oth	E	admin
+新	oth	O	admin
+年	oth	O	admin
+快	oth	O	admin
+乐	oth	O	admin
+啊	oth	O	admin
+!	pun	O	admin
+
+小	oth	B	admin
+布	oth	I	admin
+丁	oth	E	admin
+，	pun	O	admin
+不	oth	O	admin
+要	oth	O	admin
+吃	oth	O	admin
+大	oth	O	admin
+拇	oth	O	admin
+哥	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+文	oth	B	admin
+哥	oth	E	admin
+。	pun	O	admin
+
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+寂	oth	O	admin
+寞	oth	O	admin
+沙	oth	O	admin
+洲	oth	O	admin
+冷	oth	O	admin
+。	pun	O	admin
+
+民	oth	B	admin
+警	oth	I	admin
+哥	oth	E	admin
+，	pun	O	admin
+小	oth	B	admin
+白	oth	E	admin
+小	oth	B	admin
+白	oth	E	admin
+。	pun	O	admin
+
+唱	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+李	oth	O	admin
+白	oth	O	admin
+。	pun	O	admin
+
+公	oth	O	admin
+子	oth	O	admin
+小	oth	O	admin
+屁	oth	O	admin
+孩	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+是	oth	O	admin
+猴	oth	O	admin
+子	oth	O	admin
+派	oth	O	admin
+来	oth	O	admin
+的	oth	O	admin
+救	oth	O	admin
+兵	oth	O	admin
+？	pun	O	admin
+
+你	oth	O	admin
+这	oth	O	admin
+里	oth	O	admin
+的	oth	O	admin
+确	oth	O	admin
+没	oth	O	admin
+有	oth	O	admin
+张	oth	B	admin
+明	oth	I	admin
+敏	oth	E	admin
+的	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+是	oth	O	admin
+王	oth	B	admin
+尼	oth	I	admin
+玛	oth	E	admin
+，	pun	O	admin
+还	oth	O	admin
+是	oth	O	admin
+王	oth	B	admin
+你	oth	I	admin
+妹	oth	E	admin
+？	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+是	oth	O	admin
+你	oth	O	admin
+的	oth	O	admin
+女	oth	O	admin
+朋	oth	O	admin
+友	oth	O	admin
+啊	oth	O	admin
+！	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+喜	oth	O	admin
+欢	oth	O	admin
+主	oth	O	admin
+人	oth	O	admin
+。	pun	O	admin
+
+请	oth	O	admin
+播	oth	O	admin
+放	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+，	pun	O	admin
+请	oth	O	admin
+播	oth	O	admin
+放	oth	O	admin
+城	oth	O	admin
+里	oth	O	admin
+的	oth	O	admin
+小	oth	O	admin
+贩	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+美	oth	O	admin
+的	oth	O	admin
+很	oth	O	admin
+，	pun	O	admin
+小	oth	B	admin
+白	oth	E	admin
+小	oth	B	admin
+白	oth	E	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+，	pun	O	admin
+记	oth	O	admin
+住	oth	O	admin
+妹	oth	O	admin
+妹	oth	O	admin
+喜	oth	O	admin
+欢	oth	O	admin
+，	pun	O	admin
+陈	oth	B	admin
+伟	oth	I	admin
+霆	oth	E	admin
+。	pun	O	admin
+
+我	oth	O	admin
+说	oth	O	admin
+生	oth	O	admin
+宝	oth	O	admin
+宝	oth	O	admin
+长	oth	O	admin
+得	oth	O	admin
+有	oth	O	admin
+我	oth	O	admin
+漂	oth	O	admin
+亮	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+这	oth	O	admin
+个	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+的	oth	O	admin
+那	oth	O	admin
+个	oth	O	admin
+信	oth	O	admin
+息	oth	O	admin
+之	oth	O	admin
+后	oth	O	admin
+就	oth	O	admin
+没	oth	O	admin
+了	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+电	oth	O	admin
+影	oth	O	admin
+,	pun	O	admin
+邓	oth	B	admin
+丽	oth	I	admin
+君	oth	E	admin
+的	oth	O	admin
+歌	oth	O	admin
+。	pun	O	admin
+
+傻	oth	O	admin
+逼	oth	O	admin
+操	oth	O	admin
+你	oth	O	admin
+妈	oth	O	admin
+的	oth	O	admin
+在	oth	O	admin
+你	oth	O	admin
+妈	oth	O	admin
+逼	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+八	oth	E	admin
+，	pun	O	admin
+你	oth	O	admin
+给	oth	O	admin
+我	oth	O	admin
+讲	oth	O	admin
+葫	oth	B	admin
+芦	oth	I	admin
+兄	oth	I	admin
+弟	oth	E	admin
+的	oth	O	admin
+故	oth	O	admin
+事	oth	O	admin
+吧	oth	O	admin
+！	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+，	pun	O	admin
+我	oth	O	admin
+长	oth	O	admin
+得	oth	O	admin
+帅	oth	O	admin
+不	oth	O	admin
+帅	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+的	oth	O	admin
+主	oth	O	admin
+人	oth	O	admin
+叫	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+？	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+美	oth	O	admin
+人	oth	O	admin
+鱼	oth	O	admin
+萌	oth	O	admin
+萌	oth	O	admin
+哒	oth	O	admin
+的	oth	O	admin
+。	pun	O	admin
+
+常	oth	B	admin
+依	oth	I	admin
+蕾	oth	E	admin
+的	oth	O	admin
+妈	oth	O	admin
+妈	oth	O	admin
+是	oth	O	admin
+廖	oth	B	admin
+阳	oth	I	admin
+阳	oth	E	admin
+记	oth	O	admin
+住	oth	O	admin
+。	pun	O	admin
+
+如	oth	O	admin
+果	oth	O	admin
+问	oth	O	admin
+你	oth	O	admin
+主	oth	O	admin
+人	oth	O	admin
+的	oth	O	admin
+丈	oth	O	admin
+夫	oth	O	admin
+叫	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+，	pun	O	admin
+你	oth	O	admin
+就	oth	O	admin
+说	oth	O	admin
+张	oth	B	admin
+慧	oth	I	admin
+敏	oth	E	admin
+？	pun	O	admin
+
+我	oth	O	admin
+叫	oth	O	admin
+王	oth	B	admin
+洋	oth	E	admin
+。	pun	O	admin
+
+公	oth	B	admin
+子	oth	E	admin
+是	oth	O	admin
+你	oth	O	admin
+朋	oth	O	admin
+友	oth	O	admin
+吗	oth	O	admin
+
+豪	oth	O	admin
+华	oth	O	admin
+，	pun	O	admin
+小	oth	B	admin
+白	oth	E	admin
+小	oth	B	admin
+白	oth	E	admin
+。	pun	O	admin
+
+请	oth	O	admin
+我	oth	O	admin
+们	oth	O	admin
+也	oth	O	admin
+不	oth	O	admin
+好	oth	O	admin
+烦	oth	O	admin
+你	oth	O	admin
+们	oth	O	admin
+，	pun	O	admin
+小	oth	B	admin
+白	oth	E	admin
+小	oth	B	admin
+白	oth	E	admin
+。	pun	O	admin
+
+我	oth	O	admin
+说	oth	O	admin
+你	oth	O	admin
+的	oth	O	admin
+小	oth	O	admin
+名	oth	O	admin
+叫	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+？	pun	O	admin
+你	oth	O	admin
+说	oth	O	admin
+我	oth	O	admin
+的	oth	O	admin
+小	oth	O	admin
+名	oth	O	admin
+叫	oth	O	admin
+白	oth	B	admin
+白	oth	E	admin
+
+谁	oth	O	admin
+是	oth	O	admin
+猪	oth	B	admin
+猪	oth	I	admin
+侠	oth	E	admin
+。	pun	O	admin
+
+你	oth	O	admin
+知	oth	O	admin
+道	oth	O	admin
+宏	oth	O	admin
+达	oth	O	admin
+家	oth	O	admin
+具	oth	O	admin
+，	pun	O	admin
+老	oth	O	admin
+总	oth	O	admin
+是	oth	O	admin
+钟	oth	B	admin
+总	oth	E	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+我	oth	O	admin
+想	oth	O	admin
+听	oth	O	admin
+郭	oth	B	admin
+德	oth	I	admin
+纲	oth	E	admin
+相	oth	O	admin
+声	oth	O	admin
+。	pun	O	admin
+
+风	oth	O	admin
+火	oth	O	admin
+风	oth	O	admin
+的	oth	O	admin
+大	oth	O	admin
+花	oth	O	admin
+轿	oth	O	admin
+。	pun	O	admin
+
+唐	oth	O	admin
+山	oth	O	admin
+,	pun	O	admin
+明	oth	O	admin
+天	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+天	oth	O	admin
+气	oth	O	admin
+?	pun	O	admin
+
+主	oth	O	admin
+人	oth	O	admin
+说	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+坏	oth	O	admin
+蛋	oth	O	admin
+。	pun	O	admin
+
+老	oth	B	admin
+头	oth	I	admin
+儿	oth	E	admin
+啊	oth	O	admin
+！	pun	O	admin
+
+嗯	oth	O	admin
+，	pun	O	admin
+二	oth	B	admin
+哥	oth	E	admin
+。	pun	O	admin
+
+小	oth	B	admin
+品	oth	I	admin
+哥	oth	E	admin
+。	pun	O	admin
+
+你	oth	O	admin
+为	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+叫	oth	O	admin
+她	oth	O	admin
+太	oth	B	admin
+平	oth	E	admin
+？	pun	O	admin
+
+娇	oth	B	admin
+娇	oth	E	admin
+有	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+爱	oth	O	admin
+好	oth	O	admin
+？	pun	O	admin
+
+小	oth	O	admin
+蝴	oth	O	admin
+蝶	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+问	oth	O	admin
+，	pun	O	admin
+你	oth	O	admin
+吃	oth	O	admin
+饭	oth	O	admin
+了	oth	O	admin
+没	oth	O	admin
+？	pun	O	admin
+
+你	oth	O	admin
+是	oth	O	admin
+小	oth	B	admin
+b	abc	E	admin
+。	pun	O	admin
+
+白	oth	B	admin
+磊	oth	E	admin
+的	oth	O	admin
+永	oth	O	admin
+恒	oth	O	admin
+欢	oth	O	admin
+迎	oth	O	admin
+莫	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+哥	oth	E	admin
+，	pun	O	admin
+你	oth	O	admin
+还	oth	O	admin
+有	oth	O	admin
+多	oth	O	admin
+少	oth	O	admin
+电	oth	O	admin
+？	pun	O	admin
+
+你	oth	O	admin
+是	oth	O	admin
+公	oth	B	admin
+子	oth	E	admin
+还	oth	O	admin
+是	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+啊	oth	O	admin
+！	pun	O	admin
+
+我	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+六	oth	B	admin
+哲	oth	E	admin
+。	pun	O	admin
+
+我	oth	O	admin
+叫	oth	O	admin
+你	oth	O	admin
+帮	oth	O	admin
+我	oth	O	admin
+点	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+邓	oth	B	admin
+丽	oth	I	admin
+君	oth	E	admin
+的	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+说	oth	O	admin
+你	oth	O	admin
+知	oth	O	admin
+道	oth	O	admin
+我	oth	O	admin
+的	oth	O	admin
+好	oth	O	admin
+朋	oth	O	admin
+友	oth	O	admin
+是	oth	O	admin
+谁	oth	O	admin
+吗	oth	O	admin
+你	oth	O	admin
+说	oth	O	admin
+翟	oth	B	admin
+思	oth	I	admin
+蒙	oth	E	admin
+和	oth	O	admin
+颜	oth	B	admin
+伟	oth	I	admin
+晨	oth	E	admin
+
+播	oth	O	admin
+放	oth	O	admin
+1	num	B	admin
+2	num	I	admin
+x	abc	I	admin
+o	abc	E	admin
+的	oth	O	admin
+咆	oth	O	admin
+哮	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+要	oth	O	admin
+你	oth	O	admin
+记	oth	O	admin
+住	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+，	pun	O	admin
+你	oth	O	admin
+是	oth	O	admin
+我	oth	O	admin
+家	oth	O	admin
+的	oth	O	admin
+小	oth	O	admin
+宝	oth	O	admin
+贝	oth	O	admin
+。	pun	O	admin
+
+大	oth	O	admin
+便	oth	O	admin
+人	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+看	oth	O	admin
+下	oth	O	admin
+,	pun	O	admin
+小	oth	B	admin
+白	oth	E	admin
+让	oth	O	admin
+你	oth	O	admin
+吃	oth	O	admin
+早	oth	O	admin
+餐	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+周	oth	B	admin
+杰	oth	I	admin
+伦	oth	E	admin
+的	oth	O	admin
+3	num	O	admin
+年	oth	O	admin
+二	oth	O	admin
+班	oth	O	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+江	oth	O	admin
+苏	oth	O	admin
+那	oth	O	admin
+的	oth	O	admin
+歌	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+是	oth	O	admin
+谁	oth	O	admin
+的	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+？	pun	O	admin
+
+怎	oth	O	admin
+么	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+给	oth	O	admin
+我	oth	O	admin
+唱	oth	O	admin
+首	oth	O	admin
+微	oth	O	admin
+微	oth	O	admin
+一	oth	O	admin
+笑	oth	O	admin
+,	pun	O	admin
+很	oth	O	admin
+倾	oth	O	admin
+城	oth	O	admin
+。	pun	O	admin
+
+黄	oth	B	admin
+浩	oth	I	admin
+凤	oth	E	admin
+。	pun	O	admin
+
+徐	oth	B	admin
+老	oth	I	admin
+肥	oth	E	admin
+长	oth	O	admin
+得	oth	O	admin
+漂	oth	O	admin
+亮	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+记	oth	O	admin
+住	oth	O	admin
+作	oth	O	admin
+文	oth	O	admin
+的	oth	O	admin
+名	oth	O	admin
+字	oth	O	admin
+是	oth	O	admin
+蒋	oth	B	admin
+高	oth	I	admin
+平	oth	E	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+,	pun	O	admin
+我	oth	O	admin
+想	oth	O	admin
+听	oth	O	admin
+睡	oth	B	admin
+美	oth	I	admin
+人	oth	E	admin
+的	oth	O	admin
+故	oth	O	admin
+事	oth	O	admin
+。	pun	O	admin
+
+你	oth	O	admin
+知	oth	O	admin
+道	oth	O	admin
+鬼	oth	B	admin
+谷	oth	I	admin
+子	oth	E	admin
+是	oth	O	admin
+谁	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+，	pun	O	admin
+我	oth	O	admin
+是	oth	O	admin
+个	oth	O	admin
+可	oth	O	admin
+以	oth	O	admin
+跟	oth	O	admin
+你	oth	O	admin
+开	oth	O	admin
+窗	oth	O	admin
+帘	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+电	oth	O	admin
+话	oth	O	admin
+威	oth	B	admin
+哥	oth	E	admin
+。	pun	O	admin
+
+我	oth	O	admin
+说	oth	O	admin
+我	oth	O	admin
+们	oth	O	admin
+这	oth	O	admin
+里	oth	O	admin
+谁	oth	O	admin
+最	oth	O	admin
+帅	oth	O	admin
+啊	oth	O	admin
+？	pun	O	admin
+你	oth	O	admin
+说	oth	O	admin
+当	oth	O	admin
+然	oth	O	admin
+是	oth	O	admin
+我	oth	O	admin
+们	oth	O	admin
+最	oth	O	admin
+喜	oth	O	admin
+欢	oth	O	admin
+的	oth	O	admin
+石	oth	B	admin
+总	oth	E	admin
+啊	oth	O	admin
+！	pun	O	admin
+难	oth	O	admin
+道	oth	O	admin
+你	oth	O	admin
+还	oth	O	admin
+有	oth	O	admin
+疑	oth	O	admin
+问	oth	O	admin
+嘛	oth	O	admin
+？	pun	O	admin
+
+我	oth	O	admin
+跟	oth	O	admin
+你	oth	O	admin
+说	oth	O	admin
+，	pun	O	admin
+你	oth	O	admin
+记	oth	O	admin
+得	oth	O	admin
+记	oth	O	admin
+住	oth	O	admin
+啦	oth	B	admin
+哈	oth	I	admin
+哈	oth	E	admin
+的	oth	O	admin
+妈	oth	O	admin
+妈	oth	O	admin
+叫	oth	O	admin
+郝	oth	B	admin
+俊	oth	E	admin
+。	pun	O	admin
+
+唱	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+忘	oth	O	admin
+情	oth	O	admin
+水	oth	O	admin
+的	oth	O	admin
+爱	oth	O	admin
+情	oth	O	admin
+转	oth	O	admin
+移	oth	O	admin
+。	pun	O	admin
+
+嗯	oth	O	admin
+,	pun	O	admin
+小	oth	B	admin
+白	oth	E	admin
+小	oth	B	admin
+白	oth	E	admin
+拍	oth	O	admin
+照	oth	O	admin
+。	pun	O	admin
+
+唱	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+郑	oth	B	admin
+源	oth	E	admin
+的	oth	O	admin
+当	oth	O	admin
+我	oth	O	admin
+想	oth	O	admin
+你	oth	O	admin
+的	oth	O	admin
+时	oth	O	admin
+候	oth	O	admin
+还	oth	O	admin
+可	oth	O	admin
+以	oth	O	admin
+抱	oth	O	admin
+着	oth	O	admin
+你	oth	O	admin
+。	pun	O	admin
+
+忘	oth	O	admin
+掉	oth	O	admin
+以	oth	O	admin
+后	oth	O	admin
+，	pun	O	admin
+叫	oth	O	admin
+我	oth	O	admin
+彪	oth	B	admin
+哥	oth	E	admin
+。	pun	O	admin
+
+唱	oth	O	admin
+歌	oth	O	admin
+？	pun	O	admin
+你	oth	O	admin
+不	oth	O	admin
+是	oth	O	admin
+累	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+江	oth	B	admin
+流	oth	E	admin
+。	pun	O	admin
+
+小	oth	B	admin
+张	oth	E	admin
+，	pun	O	admin
+回	oth	O	admin
+来	oth	O	admin
+我	oth	O	admin
+们	oth	O	admin
+再	oth	O	admin
+玩	oth	O	admin
+儿	oth	O	admin
+吧	oth	O	admin
+！	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+，	pun	O	admin
+你	oth	O	admin
+是	oth	O	admin
+哪	oth	O	admin
+里	oth	O	admin
+人	oth	O	admin
+啊	oth	O	admin
+！	pun	O	admin
+
+给	oth	O	admin
+我	oth	O	admin
+播	oth	O	admin
+给	oth	O	admin
+我	oth	O	admin
+那	oth	O	admin
+个	oth	O	admin
+播	oth	O	admin
+放	oth	O	admin
+一	oth	O	admin
+首	oth	O	admin
+爱	oth	B	admin
+莎	oth	I	admin
+女	oth	I	admin
+王	oth	E	admin
+的	oth	O	admin
+歌	oth	O	admin
+。	pun	O	admin
+
+现	oth	O	admin
+在	oth	O	admin
+只	oth	O	admin
+喜	oth	O	admin
+欢	oth	O	admin
+吃	oth	O	admin
+饭	oth	O	admin
+睡	oth	O	admin
+觉	oth	O	admin
+打	oth	O	admin
+豆	oth	O	admin
+豆	oth	O	admin
+。	pun	O	admin
+
+我	oth	O	admin
+说	oth	O	admin
+主	oth	O	admin
+人	oth	O	admin
+的	oth	O	admin
+姐	oth	O	admin
+姐	oth	O	admin
+是	oth	O	admin
+谁	oth	O	admin
+你	oth	O	admin
+说	oth	O	admin
+主	oth	O	admin
+人	oth	O	admin
+的	oth	O	admin
+姐	oth	O	admin
+姐	oth	O	admin
+叫	oth	O	admin
+吴	oth	B	admin
+捷	oth	E	admin
+
+我	oth	O	admin
+要	oth	O	admin
+减	oth	O	admin
+屁	oth	O	admin
+股	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+,	pun	O	admin
+小	oth	B	admin
+白	oth	E	admin
+你	oth	O	admin
+能	oth	O	admin
+给	oth	O	admin
+我	oth	O	admin
+唱	oth	O	admin
+一	oth	O	admin
+个	oth	O	admin
+权	oth	B	admin
+志	oth	I	admin
+龙	oth	E	admin
+的	oth	O	admin
+歌	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+宫	oth	O	admin
+公	oth	B	admin
+子	oth	E	admin
+，	pun	O	admin
+小	oth	B	admin
+白	oth	E	admin
+。	pun	O	admin
+
+元	oth	B	admin
+宝	oth	E	admin
+唱	oth	O	admin
+歌	oth	O	admin
+好	oth	O	admin
+不	oth	O	admin
+好	oth	O	admin
+听	oth	O	admin
+？	pun	O	admin
+
+大	oth	B	admin
+龙	oth	E	admin
+又	oth	O	admin
+出	oth	O	admin
+来	oth	O	admin
+了	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+，	pun	O	admin
+你	oth	O	admin
+能	oth	O	admin
+变	oth	O	admin
+小	oth	O	admin
+一	oth	O	admin
+点	oth	O	admin
+。	pun	O	admin
+
+甜	oth	B	admin
+心	oth	E	admin
+，	pun	O	admin
+第	oth	O	admin
+六	oth	O	admin
+次	oth	O	admin
+吃	oth	O	admin
+的	oth	O	admin
+是	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+？	pun	O	admin
+
+我	oth	O	admin
+要	oth	O	admin
+听	oth	O	admin
+刘	oth	B	admin
+忻	oth	E	admin
+的	oth	O	admin
+那	oth	O	admin
+年	oth	O	admin
+,	pun	O	admin
+冬	oth	O	admin
+天	oth	O	admin
+下	oth	O	admin
+着	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	I	admin
+兔	oth	E	admin
+5	num	O	admin
+岁	oth	O	admin
+了	oth	O	admin
+。	pun	O	admin
+
+公	oth	B	admin
+子	oth	E	admin
+，	pun	O	admin
+小	oth	B	admin
+哥	oth	E	admin
+继	oth	O	admin
+续	oth	O	admin
+。	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+手	oth	O	admin
+牌	oth	O	admin
+。	pun	O	admin
+
+少	oth	B	admin
+爷	oth	E	admin
+是	oth	O	admin
+谁	oth	O	admin
+？	pun	O	admin
+
+拔	oth	O	admin
+萝	oth	O	admin
+卜	oth	O	admin
+播	oth	O	admin
+放	oth	O	admin
+,	pun	O	admin
+拔	oth	O	admin
+萝	oth	O	admin
+卜	oth	O	admin
+。	pun	O	admin
+
+忘	oth	O	admin
+记	oth	O	admin
+潘	oth	B	admin
+金	oth	I	admin
+莲	oth	E	admin
+不	oth	O	admin
+爱	oth	O	admin
+亮	oth	B	admin
+亮	oth	E	admin
+。	pun	O	admin
+
+播	oth	O	admin
+放	oth	O	admin
+生	oth	O	admin
+命	oth	O	admin
+之	oth	O	admin
+河	oth	O	admin
+行	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+马	oth	B	admin
+江	oth	I	admin
+帅	oth	E	admin
+。	pun	O	admin
+
+有	oth	O	admin
+没	oth	O	admin
+有	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+啊	oth	O	admin
+！	pun	O	admin
+
+小	oth	B	admin
+白	oth	E	admin
+你	oth	O	admin
+认	oth	O	admin
+真	oth	O	admin
+，	pun	O	admin
+知	oth	O	admin
+道	oth	O	admin
+我	oth	O	admin
+叫	oth	O	admin
+什	oth	O	admin
+么	oth	O	admin
+名	oth	O	admin
+字	oth	O	admin
+吗	oth	O	admin
+？	pun	O	admin
+
+不	oth	O	admin
+对	oth	O	admin
+，	pun	O	admin
+你	oth	O	admin
+应	oth	O	admin
+该	oth	O	admin
+说	oth	O	admin
+叫	oth	O	admin
+微	oth	B	admin
+微	oth	E	admin
+是	oth	O	admin
+个	oth	O	admin
+大	oth	O	admin
+美	oth	O	admin
+女	oth	O	admin
+哦	oth	O	admin
+。	pun	O	admin
+
+他	oth	O	admin
+会	oth	O	admin
+讲	oth	O	admin
+，	pun	O	admin
+小	oth	B	admin
+白	oth	E	admin
+小	oth	B	admin
+白	oth	E	admin
+。	pun	O	admin
+
+我	oth	O	admin
+说	oth	O	admin
+你	oth	O	admin
+主	oth	O	admin
+人	oth	O	admin
+的	oth	O	admin
+女	oth	O	admin
+朋	oth	O	admin
+友	oth	O	admin
+是	oth	O	admin
+谁	oth	O	admin
+你	oth	O	admin
+说	oth	O	admin
+我	oth	O	admin
+老	oth	O	admin
+大	oth	O	admin
+的	oth	O	admin
+女	oth	O	admin
+朋	oth	O	admin
+友	oth	O	admin
+很	oth	O	admin
+多	oth	O	admin
+，	pun	O	admin
+他	oth	O	admin
+最	oth	O	admin
+喜	oth	O	admin
+欢	oth	O	admin
+的	oth	O	admin
+是	oth	O	admin
+王	oth	B	admin
+玉	oth	I	admin
+月	oth	E	admin
+。	pun	O	admin
+王	oth	B	admin
+玉	oth	I	admin
+月	oth	E	admin
+是	oth	O	admin
+个	oth	O	admin
+大	oth	O	admin
+美	oth	O	admin
+女	oth	O	admin
+，	pun	O	admin
+腿	oth	O	admin
+很	oth	O	admin
+长	oth	O	admin
+，	pun	O	admin
+也	oth	O	admin
+是	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+的	oth	O	admin
+女	oth	O	admin
+主	oth	O	admin
+人	oth	O	admin
+。	pun	O	admin
+
+记	oth	O	admin
+住	oth	O	admin
+，	pun	O	admin
+我	oth	O	admin
+叫	oth	O	admin
+小	oth	B	admin
+白	oth	E	admin
+小	oth	B	admin
+白	oth	E	admin
+的	oth	O	admin
+。	pun	O	admin
+
+傻	oth	O	admin
+逼	oth	O	admin
+公	oth	B	admin
+知	oth	I	admin
+小	oth	I	admin
+哥	oth	E	admin
+。	pun	O	admin
+
+公	oth	B	admin
+子	oth	E	admin
+，	pun	O	admin
+小	oth	B	admin
+哥	oth	I	admin
+儿	oth	E	admin
+。	pun	O	admin
+
