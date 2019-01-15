@@ -12,7 +12,7 @@ Finally, we have 16,948 sentences annotated by the students. The average length 
 
 Concretely, we randomly select 1,000 sentences from the final dataset and let two experts generate the gold annotations. Among them, we use 300 sentences as the development set and the remaining 700 as the test set. The rest sentences with only student annotations are used as the training set.
 
-Final dataset should be in the following format, divided into four lines:
+Final dataset should be in the following format, divided into four columns:
 
 ```
 嗯	oth	O	1427402039
@@ -25,3 +25,7 @@ Final dataset should be in the following format, divided into four lines:
 石	oth	E	1427402039
 。	pun	O	1427402039
 ```
+
+In particular, the last column is user_id of annotator.
+
+If you want to learn more about data and experiments, please read our paper: [Adversarial Learning for Chinese NER from Crowd Annotations](https://arxiv.org/abs/1801.05147).
