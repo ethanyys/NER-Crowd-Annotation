@@ -28,4 +28,12 @@ Final dataset should be in the following format, divided into four columns:
 
 In particular, the last column is user_id of annotator.
 
-If you want to learn more about data and experiments, please read our paper: [Adversarial Learning for Chinese NER from Crowd Annotations](https://arxiv.org/abs/1801.05147).
+## Pre-trained Embeddings
+
+The pre-trained embeddings are trained by tool word2vec on 5M sentences which are the user-generated text from Internet. We set the embedding dimension as 100, the minimum frequency of occurrence as 5, and the window size of 5. The embeddings file is available at .\DL-PS\pre-trained.emb.
+
+## Cite
+
+If you use the data, please cite the following paper:
+
+[Yang et al., 2018] YaoSheng Yang, Meishan Zhang, Wenliang Chen, Haofen Wang, Wei Zhang, Min Zhang. Adversarial Learning for Chinese NER from Crowd Annotations, Proceedings of AAAI-2018, pp1627-1634, New Orleans, USA,Feb 2018[C]
